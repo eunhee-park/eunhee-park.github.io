@@ -205,15 +205,15 @@ Training
 
 Honors and Awards
 ======
-2021-2022:	Graduate Council Diversity Fellowship, Academic Senate, UCLA, Los Angeles, CA
-2021:	Graduate Summer Research Mentorship Program, Graduate Division, UCLA, Los Angeles, CA
-2021:	Peter J. Sawires Memorial Conference Scholarship, National Conference on Health and Domestic Violence, Futures Without Violence, San Francisco, CA
-2020-2021:	Maternal and Child Health (MCH) Training Program Fellowship, UCLA MCH Center of Excellence in the Geffen School of Medicine 
-2019:	Second Prize for poster: “Addressing the Rise of Congenital Syphilis: Working toward Setting-specific Solutions among High-Risk Pregnant Women in Kern County, CA and East Baton Rouge Parish, LA”, UCSD Public Health Research Conference 
-2010-2012:	Graduate Degree Fellowship, East West Center, Honolulu, HI 
-2008-2009:	Asia Pacific Leadership Program Fellowship, East West Center, Honolulu, HI 
-2007:	Small international research grant on global women's leadership, Sookmyung Women’s University, Seoul, South Korea 
-2005-2006:	Honor Student, Sookmyung Women’s University, Seoul, South Korea 
+1. 2021-2022:	Graduate Council Diversity Fellowship, Academic Senate, UCLA, Los Angeles, CA
+1. 2021:	Graduate Summer Research Mentorship Program, Graduate Division, UCLA, Los Angeles, CA
+1. 2021:	Peter J. Sawires Memorial Conference Scholarship, National Conference on Health and Domestic Violence, Futures Without Violence, San Francisco, CA
+1. 2020-2021:	Maternal and Child Health (MCH) Training Program Fellowship, UCLA MCH Center of Excellence in the Geffen School of Medicine 
+1. 2019:	Second Prize for poster: “Addressing the Rise of Congenital Syphilis: Working toward Setting-specific Solutions among High-Risk Pregnant Women in Kern County, CA and East Baton Rouge Parish, LA”, UCSD Public Health Research Conference 
+1. 2010-2012:	Graduate Degree Fellowship, East West Center, Honolulu, HI 
+1. 2008-2009:	Asia Pacific Leadership Program Fellowship, East West Center, Honolulu, HI 
+1. 2007:	Small international research grant on global women's leadership, Sookmyung Women’s University, Seoul, South Korea 
+1. 2005-2006:	Honor Student, Sookmyung Women’s University, Seoul, South Korea 
 
 Service and Leadership
 ======
