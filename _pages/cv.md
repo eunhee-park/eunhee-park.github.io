@@ -22,7 +22,7 @@ Department of Community Health Sciences
 
 **Education**
 ======
-<p>
+
 * Ph.D. Community Health Sciences, Fielding School of Public Health; expected June 2023
 <br>University of California Los Angeles, Los Angeles, CA, 
 <br>Advisor: Jennifer Wagman, Ph.D, MHS
@@ -34,9 +34,9 @@ Department of Community Health Sciences
 * B.A. Political Science & International Relations; February 2007					
 <br>Sookmyung Women’s University, Seoul, South Korea February 2007
 <br>Minor: English Language & Literature
-</p>
 
-**Research interests**
+
+**Research Interests**
 ======
 * Violence Against Women	
 * Maternal and Child Health		
@@ -61,22 +61,24 @@ Department of Community Health Sciences
 1. Amato K, <b>Park E</b>, Nigg CR. Prioritizing multiple health behavior change research topics: expert opinions in behavior change science. Translational behavioral medicine. 2016; 6:220-7. PMCID: PMC4927446
 
 1. Alley AB, <b>Park E</b>, Lee JK, Kang M, Oh J. Republic of Korea's Health Aid Governance: Perspectives from Partner Countries. Journal of Korean medical science. 2015; 30 Suppl 2:S149-54. PMCID: PMC4659868
+</p>
 
-<ins>Accepted publications:</ins>
+<p>
+<em>Accepted Publications:</em>
 
-Carey S, Sumstine S, Amabile C, Helvink H, Sorin C, Swendeman D, <b>Park E</b>, Wagman J. Student-Athletes', Coaches' and Administrators' Perspectives of Sexual Violence Prevention on Three Campuses with NCAA Division I and II Athletic Programs (Journal of Interpersonal Violence)
+1. Carey S, Sumstine S, Amabile C, Helvink H, Sorin C, Swendeman D, <b>Park E</b>, Wagman J. Student-Athletes', Coaches' and Administrators' Perspectives of Sexual Violence Prevention on Three Campuses with NCAA Division I and II Athletic Programs (Journal of Interpersonal Violence)
 
-Bloom B, <b>Park E</b>, Sumstine S, Amabile C, Oaks L, Swendeman D, Wagman J. Student-generated solutions to improve sexual violence response and prevention efforts on University of California campuses. (Violence Against Women)
+1. Bloom B, <b>Park E</b>, Sumstine S, Amabile C, Oaks L, Swendeman D, Wagman J. Student-generated solutions to improve sexual violence response and prevention efforts on University of California campuses. (Violence Against Women)
 
-<ins>Publications under review:</ins> 
+<em>Publications Under Review:</em> 
 
-<b>Park E</b>, Wolfe SJ, Nalugoda F, Stark L, Nakyanjo N, Ddaaki W, Ssekyewa C, Wagman J. Engaging men and boys in a gender-transformative intimate partner violence prevention program: Qualitative findings from Rakai, Uganda (Global Health: Science and Practice)
+1. <b>Park E</b>, Wolfe SJ, Nalugoda F, Stark L, Nakyanjo N, Ddaaki W, Ssekyewa C, Wagman J. Engaging men and boys in a gender-transformative intimate partner violence prevention program: Qualitative findings from Rakai, Uganda (Global Health: Science and Practice)
 
-<ins>Publications in preparation:</ins> 
+<em>Publications In Preparation:</em> 
 
-<b>Park E</b>, Yip J, Harville E, Nelson M, Giarratano G, Buekens P, Wagman J. Qualitative Assessment on the Rise of Congenital Syphilis in California: Identifying Gaps in Preventing Congenital Syphilis. (Target Journal)
+1. <b>Park E</b>, Yip J, Harville E, Nelson M, Giarratano G, Buekens P, Wagman J. Qualitative Assessment on the Rise of Congenital Syphilis in California: Identifying Gaps in Preventing Congenital Syphilis. (Target Journal)
 
-Thrift B, <b>Park E</b>, Siebert S, Paul E, Elie J, Michau L, Namy S, Wagman J. “Haitianizing” SASA! to Effectively Reduce Violence Against Women in a Caribbean Community: A Mixed Method Study from Jacmel, Haiti. (Target Journal: Evaluation and Program Planning) 
+1. Thrift B, <b>Park E</b>, Siebert S, Paul E, Elie J, Michau L, Namy S, Wagman J. “Haitianizing” SASA! to Effectively Reduce Violence Against Women in a Caribbean Community: A Mixed Method Study from Jacmel, Haiti. (Target Journal: Evaluation and Program Planning) 
 
 Abstracts and Presentations
 ======  
@@ -108,66 +110,117 @@ Abstracts and Presentations
 
   </p>
   
-**Reports and White papers**
+**Reports and White Papers**
 ======  
 <p>
-<br>Amabile C, Tran D, Park E, Chalmiers M, Raj A, Wagman J. (2019) College Students. Sexual Violence Research in the #MeToo Era: Findings from a Systematic Review of the Literature Published from January 2015 to March 2019. A Report to the California Coalition Against Sexual Assault. Center on Gender Equity and Health, University of California San Diego. La Jolla. CA.
+  
+1. Amabile C, Tran D, Park E, Chalmiers M, Raj A, Wagman J. (2019) College Students. Sexual Violence Research in the #MeToo Era: Findings from a Systematic Review of the Literature Published from January 2015 to March 2019. A Report to the California Coalition Against Sexual Assault. Center on Gender Equity and Health, University of California San Diego. La Jolla. CA.
 
-<br>Wagman JA, Park E, Siebert S, Paul E, Elie JP. (2018) Jacmel, Haiti Case Study: Learning from SASA! Adaptations in a Caribbean setting. Published by Center on Gender Equity and Health at University of California San Diego, Beyond Borders, and Raising Voices, Kampala, Uganda.
+1. Wagman JA, Park E, Siebert S, Paul E, Elie JP. (2018) Jacmel, Haiti Case Study: Learning from SASA! Adaptations in a Caribbean setting. Published by Center on Gender Equity and Health at University of California San Diego, Beyond Borders, and Raising Voices, Kampala, Uganda.
 
-<br>Park E, Bonnevie E, Nabulizi MB, Mushi J, Ntinda M, Nakuti J, Karungi E, Michau L, Namy S, Ghebrebrhan N, Wagman JA. (2018) Tanzania Case Study: Learning from SASA! Adaptations in a rural setting. Published by Center on Gender Equity at Health at University of California San Diego, and Women’s Promotion Center, Raising Voices, Kampala, Uganda.
+1. Park E, Bonnevie E, Nabulizi MB, Mushi J, Ntinda M, Nakuti J, Karungi E, Michau L, Namy S, Ghebrebrhan N, Wagman JA. (2018) Tanzania Case Study: Learning from SASA! Adaptations in a rural setting. Published by Center on Gender Equity at Health at University of California San Diego, and Women’s Promotion Center, Raising Voices, Kampala, Uganda.
 
-<br>Namy S, Wagman JA, Park E, Siebert S, Nabulizi MB, Ghebrebrhan N, Michau L. (2018) Summary Brief: Learning From SASA! Adaptations in Diverse Contexts. Published by Raising Voices, Center on Gender Equity and Health at University of California San Diego, Beyond Borders, International Rescue Committee, and Women’s Promotion Center, Kampala, Uganda.
+1. Namy S, Wagman JA, Park E, Siebert S, Nabulizi MB, Ghebrebrhan N, Michau L. (2018) Summary Brief: Learning From SASA! Adaptations in Diverse Contexts. Published by Raising Voices, Center on Gender Equity and Health at University of California San Diego, Beyond Borders, International Rescue Committee, and Women’s Promotion Center, Kampala, Uganda.
+  
 </p>
 
 **Talks**
 ======
 <p>
-<br>2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” University of California Global Health Institute, Women’s Health, Gender, and Empowerment Center for Expertise, Annual Retreat, Online, May 14, 2021 
+  
+2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” University of California Global Health Institute, Women’s Health, Gender, and Empowerment Center for Expertise, Annual Retreat, Online, May 14, 2021 
 
-<br>2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” Generation Flow Reproductive Symposium, University of California San Francisco, Online. April 11, 2021
+2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” Generation Flow Reproductive Symposium, University of California San Francisco, Online. April 11, 2021
+  
 </p>
   
-**Research experience**
+**Research Experience**
 ======
 <p>
-<br>2018-present:	Assessing the Environment for Campus Violence Prevention in California (California Department of Public Health/Center for Disease Control and Prevention, Rape Prevention Education Grant)
-  * Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Jay Silverman, UCSD Department of Medicine
-  * Duties: Grant writing, project and IRB management, qualitative data collection and analysis using Dedoose software, report preparation, manuscript writing 
+<dl>
+<dt>
+2018-present:	Assessing the Environment for Campus Violence Prevention in California (California Department of Public Health/Center for Disease Control and Prevention, Rape Prevention Education Grant)</dt>
+<dd> 
+*Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Jay Silverman, UCSD Department of Medicine 
+<br>*Duties: Grant writing, project and IRB management, qualitative data collection and analysis using Dedoose software, report preparation, manuscript writing 
+</dd>
 
-<br>2017-2018:	Addressing the Rise of Congenital Syphilis: Working toward Setting-specific Solutions among High-Risk Pregnant Women in Kern County, CA and East Baton Rouge Parish, LA (March of Dimes/Center for Disease Control and Prevention)	
-  * Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Emily Harville, Tulane University Department of Epidemiology
-  * Duties: Grant writing, project and IRB management, qualitative data collection and analysis using Nvivo software, report preparation, manuscript writing 
+<dt>
+2017-2018:	Addressing the Rise of Congenital Syphilis: Working toward Setting-specific Solutions among High-Risk Pregnant Women in Kern County, CA and East Baton Rouge Parish, LA (March of Dimes/Center for Disease Control and Prevention)</dt>	
+<dd> 
+ *Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Emily Harville, Tulane University Department of Epidemiology
+<br>*Duties: Grant writing, project and IRB management, qualitative data collection and analysis using Nvivo software, report preparation, manuscript writing 
+</dd>
 
-<br>2016-2017:	Strengthening SASA! Implementation through Learning and Guidance (United Nations Trust Fund/Raising Voices)	
+<dt>2016-2017:	Strengthening SASA! Implementation through Learning and Guidance (United Nations Trust Fund/Raising Voices)	</dt>
+<dd> 
   * Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences 
-  * Duties: Project and IRB management, qualitative data collection and analysis using Nvivo software, report preparation, manuscript writing 
-
-<br>2016-2017:	Designing a Gender-Transformative Intervention to Involve Men in Prevention of IPV in Rural Uganda (World Bank/Sexual Violence Research Initiative)
-  * Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Emily Harville, Tulane University Department of Epidemiology
-  * Duties: IRB management, qualitative data analysis using Nvivo software, report preparation, manuscript writing 
+<br>* Duties: Project and IRB management, qualitative data collection and analysis using Nvivo software, report preparation, manuscript writing 
+</dd>
+  
+<dt>
+2016-2017:	Designing a Gender-Transformative Intervention to Involve Men in Prevention of IPV in Rural Uganda (World Bank/Sexual Violence Research Initiative) </dt>
+<dd>
+  * Prncipal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Emily Harville, Tulane University Department of Epidemiology
+<br>* Duties: IRB management, qualitative data analysis using Nvivo software, report preparation, manuscript writing 
+</dd>
+</dl>
 </p>
   
-**Work experience**
+**Work Experience**
 ======
 <p>
-<br>2017-2019:		Research Program Manager
-  * Center on Gender Equity and Health 
-  * University of California San Diego School of Medicine, La Jolla, CA, USA			 
-<br>2015-2017:		Research Project Coordinator					
-  * Division of Infectious Diseases and Global Public Health
+<dl>
+<dt>
+2017-2019:		Research Program Manager
+</dt>
+  <dd> 
+  * Center on Gender Equity and Health
+    <br>
   * University of California San Diego School of Medicine, La Jolla, CA, USA
-<br>2013-2015:		Staff Researcher									
+    </dd>
+<dt>
+  2015-2017:		Research Project Coordinator				
+  </dt>
+    <dd> 
+  * Division of Infectious Diseases and Global Public Health
+  <br> 
+  * University of California San Diego School of Medicine, La Jolla, CA, USA
+         </dd>
+<dt>
+  2013-2015:		Staff Researcher	
+    </dt>
+    <dd> 
   * JWLEE Center for Global Medicine
+  <br> 
   * College of Medicine, Seoul National University, Seoul, South Korea
-<br>2011-2012:		Graduate Research Assistant								
+       </dd>
+
+<dt>
+  2011-2012:		Graduate Research Assistant	
+    </dt>
+    <dd> 
   * Department of Urban and Regional Planning
+  <br> 
   * University of Hawaii at Manoa, Honolulu, HI, USA
-<br>2007-2008:			Program Coordinator
+     </dd>
+
+<dt>
+  2007-2008:			Program Coordinator
+      </dt>
+    <dd> 
   * Executive Master of Law Program jointly offered by Northwestern Law School and Korean Advanced Institute of Science and Technology, Seoul, South Korea
-<br>2006-2007:			Development Instructor
-  * Youth HIV Prevention Project						
+     </dd>
+     
+<dt>
+  2006-2007:			Development Instructor
+      </dt>
+    <dd> 
+  * Youth HIV Prevention Project
+    <br> 						
   * Humana People to People, Lusaka, Zambia 
+       </dd>
+</dl>
 </p>
 
 **Interview/Press/Media Coverage**
@@ -176,15 +229,33 @@ Abstracts and Presentations
   
 Teaching
 ======
-<p>2013:			Teaching Assistant
+<p>
+<dl>
+<dt>
+2013:			Teaching Assistant
+</dt>
+    <dd> 
   * Course: Public Health Policy – Implementation on Appropriate Medical Technologies in resource-limited settings
+  <br> 
   * College of Medicine, Seoul National University, Seoul, South Korea
-<br>2009-2010:		English Teacher
+      </dd> 
+  <dt>
+2009-2010:		English Teacher
+    </dt>
+     <dd> 
   * JC English Academy, Hwa-Sung, South Korea
-<br>2008-2009:		Korean Language Instructor
+        </dd> 
+  <dt>
+2008-2009:		Korean Language Instructor
+    </dt>
+    <dd> 
     * Course: one-on-one tutoring for students in a Bachelor of Arts degree in Korean 
+        <br> 
     * Department of East Asian Languages and Literatures
+        <br> 
     * Korean Language Flagship Center, University of Hawaii at Manoa, Honolulu, HI, USA
+ </dd> 
+  </dl>
 </p>
 
 **Training**
