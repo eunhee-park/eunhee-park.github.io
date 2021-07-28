@@ -22,6 +22,7 @@ Department of Community Health Sciences
 
 **Education**
 ======
+<p>
 * Ph.D. Community Health Sciences, Fielding School of Public Health; expected June 2023
 <br>University of California Los Angeles, Los Angeles, CA, 
 <br>Advisor: Jennifer Wagman, Ph.D, MHS
@@ -33,6 +34,7 @@ Department of Community Health Sciences
 * B.A. Political Science & International Relations; February 2007					
 <br>Sookmyung Women’s University, Seoul, South Korea February 2007
 <br>Minor: English Language & Literature
+</p>
 
 **Research interests **
 ======
