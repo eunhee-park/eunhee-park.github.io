@@ -123,7 +123,7 @@ Abstracts and Presentations
 
 1. Carey S, Amabile C, Sumstine S, Helvink H, Sorin C, Park E, Wagman J. Similarities and differences in NCAA student athletes', coaches' and administrators' perspectives of campus-based sexual violence. National Conference on Health and Domestic Violence [Poster Presentation] Online. April 28-30, 2021.
 
-1> Sorin C, Amabile C, Carey S, Mahesh V, Park E, Sumstine S, Wagman J. Mandatory reporting at the University of California: An analysis of graduate student, staff, and faculty perspectives. National Conference on Health and Domestic Violence [Poster Presentation] Online. April 28-30, 2021.
+1. Sorin C, Amabile C, Carey S, Mahesh V, Park E, Sumstine S, Wagman J. Mandatory reporting at the University of California: An analysis of graduate student, staff, and faculty perspectives. National Conference on Health and Domestic Violence [Poster Presentation] Online. April 28-30, 2021.
 
 1. Bloom B, Park E, Sumstine S, Amabile C, Oaks L, Swendeman D, Wagman J. Student-generated solutions to improve sexual violence response and prevention efforts on University of California campuses. APHA Annual Meeting and Expo. [Oral Presentation] Online. October 24-28, 2020.
 
