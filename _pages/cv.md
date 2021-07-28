@@ -20,7 +20,7 @@ Department of Community Health Sciences
 <br>E-mail: eepark@ucla.edu
 </p>
 
-Education
+**Education**
 ======
 * Ph.D. Community Health Sciences, Fielding School of Public Health; expected June 2023
 <br>University of California Los Angeles, Los Angeles, CA, 
@@ -34,7 +34,7 @@ Education
 <br>Sookmyung Women’s University, Seoul, South Korea February 2007
 <br>Minor: English Language & Literature
 
-Research interests 
+**Research interests **
 ======
 * Violence Against Women	
 * Maternal and Child Health		
@@ -45,50 +45,8 @@ Research interests
 * Data Visualization		
 * Mixed Method Research
 
-Work experience
-======
-* 2017-2019:		Research Program Manager
-  * Center on Gender Equity and Health 
-  * University of California San Diego School of Medicine, La Jolla, CA, USA			 
 
-* 2015-2017:		Research Project Coordinator					
-  * Division of Infectious Diseases and Global Public Health
-  * University of California San Diego School of Medicine, La Jolla, CA, USA
-
-* 2013-2015:		Staff Researcher									
-  * JWLEE Center for Global Medicine
-  * College of Medicine, Seoul National University, Seoul, South Korea
-
-* 2011-2012:		Graduate Research Assistant								
-  * Department of Urban and Regional Planning
-  * University of Hawaii at Manoa, Honolulu, HI, USA
-
-* 2007-2008:			Program Coordinator
-  * Executive Master of Law Program jointly offered by Northwestern Law School and Korean Advanced Institute of Science and Technology, Seoul, South Korea
-
-* 2006-2007:			Development Instructor
-  * Youth HIV Prevention Project						
-  * Humana People to People, Lusaka, Zambia 
-
-Research experience
-======
-* 2018-present:	Assessing the Environment for Campus Violence Prevention in California (California Department of Public Health/Center for Disease Control and Prevention, Rape Prevention Education Grant)
-  * Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Jay Silverman, UCSD Department of Medicine
-  * Duties: Grant writing, project and IRB management, qualitative data collection and analysis using Dedoose software, report preparation, manuscript writing 
-
-* 2017-2018:	Addressing the Rise of Congenital Syphilis: Working toward Setting-specific Solutions among High-Risk Pregnant Women in Kern County, CA and East Baton Rouge Parish, LA (March of Dimes/Center for Disease Control and Prevention)	
-  * Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Emily Harville, Tulane University Department of Epidemiology
-  * Duties: Grant writing, project and IRB management, qualitative data collection and analysis using Nvivo software, report preparation, manuscript writing 
-
-* 2016-2017:	Strengthening SASA! Implementation through Learning and Guidance (United Nations Trust Fund/Raising Voices)	
-  * Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences 
-  * Duties: Project and IRB management, qualitative data collection and analysis using Nvivo software, report preparation, manuscript writing 
-
-* 2016-2017:	Designing a Gender-Transformative Intervention to Involve Men in Prevention of IPV in Rural Uganda (World Bank/Sexual Violence Research Initiative)
-  * Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Emily Harville, Tulane University Department of Epidemiology
-  * Duties: IRB management, qualitative data analysis using Nvivo software, report preparation, manuscript writing 
-
-Publications
+**Publications**
 ======
 <p>
   
@@ -148,7 +106,7 @@ Abstracts and Presentations
 
   </p>
   
-Reports and White papers
+**Reports and White papers**
 ======  
 Amabile C, Tran D, Park E, Chalmiers M, Raj A, Wagman J. (2019) College Students. Sexual Violence Research in the #MeToo Era: Findings from a Systematic Review of the Literature Published from January 2015 to March 2019. A Report to the California Coalition Against Sexual Assault. Center on Gender Equity and Health, University of California San Diego. La Jolla. CA.
 
@@ -158,28 +116,73 @@ Park E, Bonnevie E, Nabulizi MB, Mushi J, Ntinda M, Nakuti J, Karungi E, Michau 
 
 Namy S, Wagman JA, Park E, Siebert S, Nabulizi MB, Ghebrebrhan N, Michau L. (2018) Summary Brief: Learning From SASA! Adaptations in Diverse Contexts. Published by Raising Voices, Center on Gender Equity and Health at University of California San Diego, Beyond Borders, International Rescue Committee, and Women’s Promotion Center, Kampala, Uganda.
 
-Talks
+**Talks**
 ======
 2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” University of California Global Health Institute, Women’s Health, Gender, and Empowerment Center for Expertise, Annual Retreat, Online, May 14, 2021 
 
 2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” Generation Flow Reproductive Symposium, University of California San Francisco, Online. April 11, 2021
 
-Interview/Press/Media Coverage
+**Research experience**
+======
+* 2018-present:	Assessing the Environment for Campus Violence Prevention in California (California Department of Public Health/Center for Disease Control and Prevention, Rape Prevention Education Grant)
+  * Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Jay Silverman, UCSD Department of Medicine
+  * Duties: Grant writing, project and IRB management, qualitative data collection and analysis using Dedoose software, report preparation, manuscript writing 
+
+* 2017-2018:	Addressing the Rise of Congenital Syphilis: Working toward Setting-specific Solutions among High-Risk Pregnant Women in Kern County, CA and East Baton Rouge Parish, LA (March of Dimes/Center for Disease Control and Prevention)	
+  * Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Emily Harville, Tulane University Department of Epidemiology
+  * Duties: Grant writing, project and IRB management, qualitative data collection and analysis using Nvivo software, report preparation, manuscript writing 
+
+* 2016-2017:	Strengthening SASA! Implementation through Learning and Guidance (United Nations Trust Fund/Raising Voices)	
+  * Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences 
+  * Duties: Project and IRB management, qualitative data collection and analysis using Nvivo software, report preparation, manuscript writing 
+
+* 2016-2017:	Designing a Gender-Transformative Intervention to Involve Men in Prevention of IPV in Rural Uganda (World Bank/Sexual Violence Research Initiative)
+  * Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Emily Harville, Tulane University Department of Epidemiology
+  * Duties: IRB management, qualitative data analysis using Nvivo software, report preparation, manuscript writing 
+
+**Work experience**
+======
+* 2017-2019:		Research Program Manager
+  * Center on Gender Equity and Health 
+  * University of California San Diego School of Medicine, La Jolla, CA, USA			 
+
+* 2015-2017:		Research Project Coordinator					
+  * Division of Infectious Diseases and Global Public Health
+  * University of California San Diego School of Medicine, La Jolla, CA, USA
+
+* 2013-2015:		Staff Researcher									
+  * JWLEE Center for Global Medicine
+  * College of Medicine, Seoul National University, Seoul, South Korea
+
+* 2011-2012:		Graduate Research Assistant								
+  * Department of Urban and Regional Planning
+  * University of Hawaii at Manoa, Honolulu, HI, USA
+
+* 2007-2008:			Program Coordinator
+  * Executive Master of Law Program jointly offered by Northwestern Law School and Korean Advanced Institute of Science and Technology, Seoul, South Korea
+
+* 2006-2007:			Development Instructor
+  * Youth HIV Prevention Project						
+  * Humana People to People, Lusaka, Zambia 
+
+**Interview/Press/Media Coverage**
 ======
 “How — And Why — Academic Researchers Are Taking On Anti-Asian Hate.” By Adolfo Guzman-Lopez, LAist & Southern California Public Radio (SCPR), May 3, 2021. Available at: https://laist.com/news/education/campus-anti-asian-hate 
   
 Teaching
 ======
-1. 2013:			Teaching Assistant
+<p>2013:			Teaching Assistant
   * Course: Public Health Policy – Implementation on Appropriate Medical Technologies in resource-limited settings
   * College of Medicine, Seoul National University, Seoul, South Korea
-1. 2009-2010:		English Teacher
+<br>2009-2010:		English Teacher
   * JC English Academy, Hwa-Sung, South Korea
-1. 2008-2009:		Korean Language Instructor
+<br>2008-2009:		Korean Language Instructor
     * Course: one-on-one tutoring for students in a Bachelor of Arts degree in Korean 
     * Department of East Asian Languages and Literatures
     * Korean Language Flagship Center, University of Hawaii at Manoa, Honolulu, HI, USA
-Training
+</p>
+
+**Training**
 ======
 1. 2021:		Community Program Monitoring & Evaluation Internship, Center for the Pacific Asian Family, Los Angeles, CA
 1. 2019:		CITI Training for Human Subject Research, Social Behavioral and Education Research 
@@ -187,7 +190,7 @@ Training
 1. 2011:		Epidemiology and Population Health Summer Institute, Mailman School of Public Health, Columbia University, New York, NY
 1. 2008:		Asia Pacific Leadership Program, East West Center, Honolulu, HI
 
-Honors and Awards
+**Honors and Awards**
 ======
 1. 2021-2022:	Graduate Council Diversity Fellowship, Academic Senate, UCLA, Los Angeles, CA
 1. 2021:	Graduate Summer Research Mentorship Program, Graduate Division, UCLA, Los Angeles, CA
@@ -199,7 +202,7 @@ Honors and Awards
 1. 2007:	Small international research grant on global women's leadership, Sookmyung Women’s University, Seoul, South Korea 
 1. 2005-2006:	Honor Student, Sookmyung Women’s University, Seoul, South Korea 
 
-Service and Leadership
+**Service and Leadership**
 ======
 1. 2020-present:		Student Interest Group - Executive Committee, UCLA Maternal and Child Health Program, Los Angeles, CA
 1. 2019-present:		Survey Committee, UCLA Fielding School of Public Health, Los Angeles, CA
@@ -207,7 +210,7 @@ Service and Leadership
 1. 2019-present:		Parent Group Member, UCLA Early Childhood and Education, University Village, Los Angeles, CA
 1. 2019-present:		Student Member, UCLA Students with Dependent Program, Los Angeles, CA
   
-Skills
+**Skills**
 ======
 <p>Language: Korean
 <br>Statistical Analysis: SAS, SPSS, Stata, R, Tableau
