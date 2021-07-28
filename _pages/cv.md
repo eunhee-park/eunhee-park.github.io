@@ -90,6 +90,7 @@ Research experience
 
 Publications
 ======
+<p>
 1. Chan EYL, Smullin C, Clavijo S, Papp-Green M, <b>Park E</b>, et al. (2021) A qualitative assessment of structural barriers to prenatal care and congenital syphilis prevention in Kern County, California. PLOS ONE 16(4): e0249419.
 
 1. Wagman JA, Nabukalu D, Miller AP, Wawer MJ, Ssekubugu R, Nakowooya H, Nantume B, <b>Park E</b>, Hahn JA, Serwadda DM, Sewankambo NK, Nalugoda F, Kigozi G. Prevalence and correlates of men's and women's alcohol use in agrarian, trading and fishing communities in Rakai, Uganda. PLoS One. 2020;15(10):e0240796. 
@@ -144,6 +145,8 @@ Abstracts and Presentations
 
 1. Park E, Okihiro M. Assessing childhood obesity: Utilizing the “Electronic Health and Wellness Survey” during well-child visits at a community health center in rural Hawaii. American Public Health Association Annual Meeting & Exposition. [Poster Presentation] San Francisco, CA. October 27-31, 2012
 
+  </p>
+  
 Reports and White papers
 ======  
 Amabile C, Tran D, Park E, Chalmiers M, Raj A, Wagman J. (2019) College Students. Sexual Violence Research in the #MeToo Era: Findings from a Systematic Review of the Literature Published from January 2015 to March 2019. A Report to the California Coalition Against Sexual Assault. Center on Gender Equity and Health, University of California San Diego. La Jolla. CA.
@@ -222,7 +225,7 @@ Service and Leadership
   
 * 2019-present:		Student Member
   * UCLA Students with Dependent Program, Los Angeles, CA
-
+  
 Skills
 ======
 <p>Language: Korean
