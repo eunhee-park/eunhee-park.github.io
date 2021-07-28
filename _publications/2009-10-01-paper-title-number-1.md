@@ -1,7 +1,7 @@
 ---
 title: "Republic of Korea's Health Aid Governance: Perspectives from Partner Countries"
 collection: publications
-permalink: /publication/2015-11-01-paper-Republic of Korea's Health Aid Governance
+permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: 'The Republic of Korea is continuing to develop its capacity as a good donor but has yet to achieve all governance-related targets. The results of this survey can be used to inform a future aid strategy.'
 date: 2015-11-01
 venue: 'Journal of Korean medical science'
