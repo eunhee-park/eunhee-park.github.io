@@ -36,7 +36,7 @@ Department of Community Health Sciences
 <br>Minor: English Language & Literature
 </p>
 
-**Research interests **
+**Research interests**
 ======
 * Violence Against Women	
 * Maternal and Child Health		
@@ -111,21 +111,21 @@ Abstracts and Presentations
 **Reports and White papers**
 ======  
 <p>
-Amabile C, Tran D, Park E, Chalmiers M, Raj A, Wagman J. (2019) College Students. Sexual Violence Research in the #MeToo Era: Findings from a Systematic Review of the Literature Published from January 2015 to March 2019. A Report to the California Coalition Against Sexual Assault. Center on Gender Equity and Health, University of California San Diego. La Jolla. CA.
+<br>Amabile C, Tran D, Park E, Chalmiers M, Raj A, Wagman J. (2019) College Students. Sexual Violence Research in the #MeToo Era: Findings from a Systematic Review of the Literature Published from January 2015 to March 2019. A Report to the California Coalition Against Sexual Assault. Center on Gender Equity and Health, University of California San Diego. La Jolla. CA.
 
-Wagman JA, Park E, Siebert S, Paul E, Elie JP. (2018) Jacmel, Haiti Case Study: Learning from SASA! Adaptations in a Caribbean setting. Published by Center on Gender Equity and Health at University of California San Diego, Beyond Borders, and Raising Voices, Kampala, Uganda.
+<br>Wagman JA, Park E, Siebert S, Paul E, Elie JP. (2018) Jacmel, Haiti Case Study: Learning from SASA! Adaptations in a Caribbean setting. Published by Center on Gender Equity and Health at University of California San Diego, Beyond Borders, and Raising Voices, Kampala, Uganda.
 
-Park E, Bonnevie E, Nabulizi MB, Mushi J, Ntinda M, Nakuti J, Karungi E, Michau L, Namy S, Ghebrebrhan N, Wagman JA. (2018) Tanzania Case Study: Learning from SASA! Adaptations in a rural setting. Published by Center on Gender Equity at Health at University of California San Diego, and Women’s Promotion Center, Raising Voices, Kampala, Uganda.
+<br>Park E, Bonnevie E, Nabulizi MB, Mushi J, Ntinda M, Nakuti J, Karungi E, Michau L, Namy S, Ghebrebrhan N, Wagman JA. (2018) Tanzania Case Study: Learning from SASA! Adaptations in a rural setting. Published by Center on Gender Equity at Health at University of California San Diego, and Women’s Promotion Center, Raising Voices, Kampala, Uganda.
 
-Namy S, Wagman JA, Park E, Siebert S, Nabulizi MB, Ghebrebrhan N, Michau L. (2018) Summary Brief: Learning From SASA! Adaptations in Diverse Contexts. Published by Raising Voices, Center on Gender Equity and Health at University of California San Diego, Beyond Borders, International Rescue Committee, and Women’s Promotion Center, Kampala, Uganda.
+<br>Namy S, Wagman JA, Park E, Siebert S, Nabulizi MB, Ghebrebrhan N, Michau L. (2018) Summary Brief: Learning From SASA! Adaptations in Diverse Contexts. Published by Raising Voices, Center on Gender Equity and Health at University of California San Diego, Beyond Borders, International Rescue Committee, and Women’s Promotion Center, Kampala, Uganda.
 </p>
 
 **Talks**
 ======
 <p>
-2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” University of California Global Health Institute, Women’s Health, Gender, and Empowerment Center for Expertise, Annual Retreat, Online, May 14, 2021 
+<br>2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” University of California Global Health Institute, Women’s Health, Gender, and Empowerment Center for Expertise, Annual Retreat, Online, May 14, 2021 
 
-2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” Generation Flow Reproductive Symposium, University of California San Francisco, Online. April 11, 2021
+<br>2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” Generation Flow Reproductive Symposium, University of California San Francisco, Online. April 11, 2021
 </p>
   
 **Research experience**
