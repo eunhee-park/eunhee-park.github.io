@@ -50,7 +50,6 @@ Department of Community Health Sciences
 
 **Publications**
 ======
-<p>
   
 1. Chan EYL, Smullin C, Clavijo S, Papp-Green M, <b>Park E</b>, et al. (2021) A qualitative assessment of structural barriers to prenatal care and congenital syphilis prevention in Kern County, California. PLOS ONE 16(4): e0249419.
 
@@ -61,9 +60,8 @@ Department of Community Health Sciences
 1. Amato K, <b>Park E</b>, Nigg CR. Prioritizing multiple health behavior change research topics: expert opinions in behavior change science. Translational behavioral medicine. 2016; 6:220-7. PMCID: PMC4927446
 
 1. Alley AB, <b>Park E</b>, Lee JK, Kang M, Oh J. Republic of Korea's Health Aid Governance: Perspectives from Partner Countries. Journal of Korean medical science. 2015; 30 Suppl 2:S149-54. PMCID: PMC4659868
-</p>
 
-<p>
+
 <em>Accepted Publications:</em>
 
 1. Carey S, Sumstine S, Amabile C, Helvink H, Sorin C, Swendeman D, <b>Park E</b>, Wagman J. Student-Athletes', Coaches' and Administrators' Perspectives of Sexual Violence Prevention on Three Campuses with NCAA Division I and II Athletic Programs (Journal of Interpersonal Violence)
@@ -108,11 +106,9 @@ Abstracts and Presentations
 
 1. Park E, Okihiro M. Assessing childhood obesity: Utilizing the “Electronic Health and Wellness Survey” during well-child visits at a community health center in rural Hawaii. American Public Health Association Annual Meeting & Exposition. [Poster Presentation] San Francisco, CA. October 27-31, 2012
 
-  </p>
   
 **Reports and White Papers**
 ======  
-<p>
   
 1. Amabile C, Tran D, Park E, Chalmiers M, Raj A, Wagman J. (2019) College Students. Sexual Violence Research in the #MeToo Era: Findings from a Systematic Review of the Literature Published from January 2015 to March 2019. A Report to the California Coalition Against Sexual Assault. Center on Gender Equity and Health, University of California San Diego. La Jolla. CA.
 
@@ -122,17 +118,14 @@ Abstracts and Presentations
 
 1. Namy S, Wagman JA, Park E, Siebert S, Nabulizi MB, Ghebrebrhan N, Michau L. (2018) Summary Brief: Learning From SASA! Adaptations in Diverse Contexts. Published by Raising Voices, Center on Gender Equity and Health at University of California San Diego, Beyond Borders, International Rescue Committee, and Women’s Promotion Center, Kampala, Uganda.
   
-</p>
 
 **Talks**
 ======
-<p>
   
 2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” University of California Global Health Institute, Women’s Health, Gender, and Empowerment Center for Expertise, Annual Retreat, Online, May 14, 2021 
 
 2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” Generation Flow Reproductive Symposium, University of California San Francisco, Online. April 11, 2021
   
-</p>
   
 **Research Experience**
 ======
