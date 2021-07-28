@@ -95,7 +95,7 @@ Publications
 
 1. Wagman JA, Nabukalu D, Miller AP, Wawer MJ, Ssekubugu R, Nakowooya H, Nantume B, <b>Park E</b>, Hahn JA, Serwadda DM, Sewankambo NK, Nalugoda F, Kigozi G. Prevalence and correlates of men's and women's alcohol use in agrarian, trading and fishing communities in Rakai, Uganda. PLoS One. 2020;15(10):e0240796. 
 
-1. <b>Park E<b/>, Stockman JK, Thrift B, Nicole A, Smith LR. Structural Barriers to Women's Sustained Engagement in HIV Care in Southern California. AIDS Behav. 2020 Oct;24(10):2966-2974. doi: 10.1007/s10461-020-02847-9. PMID: 32323105; PMCID: PMC7790164. 
+1. <b>Park E</b>, Stockman JK, Thrift B, Nicole A, Smith LR. Structural Barriers to Women's Sustained Engagement in HIV Care in Southern California. AIDS Behav. 2020 Oct;24(10):2966-2974. doi: 10.1007/s10461-020-02847-9. PMID: 32323105; PMCID: PMC7790164. 
 
 1. Amato K, <b>Park E</b>, Nigg CR. Prioritizing multiple health behavior change research topics: expert opinions in behavior change science. Translational behavioral medicine. 2016; 6:220-7. PMCID: PMC4927446
 
