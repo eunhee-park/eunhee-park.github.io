@@ -26,7 +26,7 @@ Education
 <br>University of California Los Angeles, Los Angeles, CA, 
 <br>Advisor: Jennifer Wagman, Ph.D, MHS
 
-* M.P.H. Social and Behavioral Sciences; May 2012  
+* M.P.H. Social and Behavioral Sciences; May 2012
 <br>University of Hawaii at Manoa, Honolulu, HI 
 <br>Comprehensive Exam: Assessing childhood obesity: Utilizing the “electronic health and wellness survey” during well-child visits at a community health center in rural Hawaii
 
