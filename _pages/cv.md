@@ -9,18 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Eunhee Park
-Eunhee is pronounced as /ŭn-hiː/
-(Updated on June 11, 2021)
-
- 
-Department of Community Health Sciences
-UCLA Fielding School of Public Health
-Office 46-071
-650 Charles E. Young Drive South
-P.O. Box 951772 
-Los Angeles, CA 90095-1772	Wed: linkedin.com/in/eepark/
-E-mail: eepark@g.ucla.edu
+<p>Department of Community Health Sciences
+<br>UCLA Fielding School of Public Health
+<br>Office 46-071
+<br>650 Charles E. Young Drive South
+<br>P.O. Box 951772 
+<br>Los Angeles, CA 90095-1772	
+<br>Wed: linkedin.com/in/eepark/
+<br>E-mail: eepark@ucla.edu
+</p>
 
 Education
 ======
