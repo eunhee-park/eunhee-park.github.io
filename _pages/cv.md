@@ -108,6 +108,7 @@ Abstracts and Presentations
   
 **Reports and White papers**
 ======  
+<p>
 Amabile C, Tran D, Park E, Chalmiers M, Raj A, Wagman J. (2019) College Students. Sexual Violence Research in the #MeToo Era: Findings from a Systematic Review of the Literature Published from January 2015 to March 2019. A Report to the California Coalition Against Sexual Assault. Center on Gender Equity and Health, University of California San Diego. La Jolla. CA.
 
 Wagman JA, Park E, Siebert S, Paul E, Elie JP. (2018) Jacmel, Haiti Case Study: Learning from SASA! Adaptations in a Caribbean setting. Published by Center on Gender Equity and Health at University of California San Diego, Beyond Borders, and Raising Voices, Kampala, Uganda.
@@ -115,17 +116,20 @@ Wagman JA, Park E, Siebert S, Paul E, Elie JP. (2018) Jacmel, Haiti Case Study: 
 Park E, Bonnevie E, Nabulizi MB, Mushi J, Ntinda M, Nakuti J, Karungi E, Michau L, Namy S, Ghebrebrhan N, Wagman JA. (2018) Tanzania Case Study: Learning from SASA! Adaptations in a rural setting. Published by Center on Gender Equity at Health at University of California San Diego, and Women’s Promotion Center, Raising Voices, Kampala, Uganda.
 
 Namy S, Wagman JA, Park E, Siebert S, Nabulizi MB, Ghebrebrhan N, Michau L. (2018) Summary Brief: Learning From SASA! Adaptations in Diverse Contexts. Published by Raising Voices, Center on Gender Equity and Health at University of California San Diego, Beyond Borders, International Rescue Committee, and Women’s Promotion Center, Kampala, Uganda.
+</p>
 
 **Talks**
 ======
+<p>
 2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” University of California Global Health Institute, Women’s Health, Gender, and Empowerment Center for Expertise, Annual Retreat, Online, May 14, 2021 
 
 2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” Generation Flow Reproductive Symposium, University of California San Francisco, Online. April 11, 2021
-
+</p>
+  
 **Research experience**
 ======
 <p>
-2018-present:	Assessing the Environment for Campus Violence Prevention in California (California Department of Public Health/Center for Disease Control and Prevention, Rape Prevention Education Grant)
+<br>2018-present:	Assessing the Environment for Campus Violence Prevention in California (California Department of Public Health/Center for Disease Control and Prevention, Rape Prevention Education Grant)
   * Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Jay Silverman, UCSD Department of Medicine
   * Duties: Grant writing, project and IRB management, qualitative data collection and analysis using Dedoose software, report preparation, manuscript writing 
 
@@ -144,7 +148,8 @@ Namy S, Wagman JA, Park E, Siebert S, Nabulizi MB, Ghebrebrhan N, Michau L. (201
   
 **Work experience**
 ======
-<p>2017-2019:		Research Program Manager
+<p>
+<br>2017-2019:		Research Program Manager
   * Center on Gender Equity and Health 
   * University of California San Diego School of Medicine, La Jolla, CA, USA			 
 <br>2015-2017:		Research Project Coordinator					
