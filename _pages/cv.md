@@ -124,46 +124,44 @@ Namy S, Wagman JA, Park E, Siebert S, Nabulizi MB, Ghebrebrhan N, Michau L. (201
 
 **Research experience**
 ======
-* 2018-present:	Assessing the Environment for Campus Violence Prevention in California (California Department of Public Health/Center for Disease Control and Prevention, Rape Prevention Education Grant)
+<p>
+2018-present:	Assessing the Environment for Campus Violence Prevention in California (California Department of Public Health/Center for Disease Control and Prevention, Rape Prevention Education Grant)
   * Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Jay Silverman, UCSD Department of Medicine
   * Duties: Grant writing, project and IRB management, qualitative data collection and analysis using Dedoose software, report preparation, manuscript writing 
 
-* 2017-2018:	Addressing the Rise of Congenital Syphilis: Working toward Setting-specific Solutions among High-Risk Pregnant Women in Kern County, CA and East Baton Rouge Parish, LA (March of Dimes/Center for Disease Control and Prevention)	
+<br>2017-2018:	Addressing the Rise of Congenital Syphilis: Working toward Setting-specific Solutions among High-Risk Pregnant Women in Kern County, CA and East Baton Rouge Parish, LA (March of Dimes/Center for Disease Control and Prevention)	
   * Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Emily Harville, Tulane University Department of Epidemiology
   * Duties: Grant writing, project and IRB management, qualitative data collection and analysis using Nvivo software, report preparation, manuscript writing 
 
-* 2016-2017:	Strengthening SASA! Implementation through Learning and Guidance (United Nations Trust Fund/Raising Voices)	
+<br>2016-2017:	Strengthening SASA! Implementation through Learning and Guidance (United Nations Trust Fund/Raising Voices)	
   * Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences 
   * Duties: Project and IRB management, qualitative data collection and analysis using Nvivo software, report preparation, manuscript writing 
 
-* 2016-2017:	Designing a Gender-Transformative Intervention to Involve Men in Prevention of IPV in Rural Uganda (World Bank/Sexual Violence Research Initiative)
+<br>2016-2017:	Designing a Gender-Transformative Intervention to Involve Men in Prevention of IPV in Rural Uganda (World Bank/Sexual Violence Research Initiative)
   * Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Emily Harville, Tulane University Department of Epidemiology
   * Duties: IRB management, qualitative data analysis using Nvivo software, report preparation, manuscript writing 
-
+</p>
+  
 **Work experience**
 ======
-* 2017-2019:		Research Program Manager
+<p>2017-2019:		Research Program Manager
   * Center on Gender Equity and Health 
   * University of California San Diego School of Medicine, La Jolla, CA, USA			 
-
-* 2015-2017:		Research Project Coordinator					
+<br>2015-2017:		Research Project Coordinator					
   * Division of Infectious Diseases and Global Public Health
   * University of California San Diego School of Medicine, La Jolla, CA, USA
-
-* 2013-2015:		Staff Researcher									
+<br>2013-2015:		Staff Researcher									
   * JWLEE Center for Global Medicine
   * College of Medicine, Seoul National University, Seoul, South Korea
-
-* 2011-2012:		Graduate Research Assistant								
+<br>2011-2012:		Graduate Research Assistant								
   * Department of Urban and Regional Planning
   * University of Hawaii at Manoa, Honolulu, HI, USA
-
-* 2007-2008:			Program Coordinator
+<br>2007-2008:			Program Coordinator
   * Executive Master of Law Program jointly offered by Northwestern Law School and Korean Advanced Institute of Science and Technology, Seoul, South Korea
-
-* 2006-2007:			Development Instructor
+<br>2006-2007:			Development Instructor
   * Youth HIV Prevention Project						
   * Humana People to People, Lusaka, Zambia 
+</p>
 
 **Interview/Press/Media Coverage**
 ======
@@ -184,32 +182,35 @@ Teaching
 
 **Training**
 ======
-1. 2021:		Community Program Monitoring & Evaluation Internship, Center for the Pacific Asian Family, Los Angeles, CA
-1. 2019:		CITI Training for Human Subject Research, Social Behavioral and Education Research 
-1. 2017:		Research Administration Training Program, University of California San Diego, La Jolla, CA
-1. 2011:		Epidemiology and Population Health Summer Institute, Mailman School of Public Health, Columbia University, New York, NY
-1. 2008:		Asia Pacific Leadership Program, East West Center, Honolulu, HI
-
+<p> 2021:		Community Program Monitoring & Evaluation Internship, Center for the Pacific Asian Family, Los Angeles, CA
+<br> 2019:		CITI Training for Human Subject Research, Social Behavioral and Education Research 
+<br> 2017:		Research Administration Training Program, University of California San Diego, La Jolla, CA
+<br> 2011:		Epidemiology and Population Health Summer Institute, Mailman School of Public Health, Columbia University, New York, NY
+<br> 2008:		Asia Pacific Leadership Program, East West Center, Honolulu, HI
+</p>
+  
 **Honors and Awards**
 ======
-1. 2021-2022:	Graduate Council Diversity Fellowship, Academic Senate, UCLA, Los Angeles, CA
-1. 2021:	Graduate Summer Research Mentorship Program, Graduate Division, UCLA, Los Angeles, CA
-1. 2021:	Peter J. Sawires Memorial Conference Scholarship, National Conference on Health and Domestic Violence, Futures Without Violence, San Francisco, CA
-1. 2020-2021:	Maternal and Child Health (MCH) Training Program Fellowship, UCLA MCH Center of Excellence in the Geffen School of Medicine 
-1. 2019:	Second Prize for poster: “Addressing the Rise of Congenital Syphilis: Working toward Setting-specific Solutions among High-Risk Pregnant Women in Kern County, CA and East Baton Rouge Parish, LA”, UCSD Public Health Research Conference 
-1. 2010-2012:	Graduate Degree Fellowship, East West Center, Honolulu, HI 
-1. 2008-2009:	Asia Pacific Leadership Program Fellowship, East West Center, Honolulu, HI 
-1. 2007:	Small international research grant on global women's leadership, Sookmyung Women’s University, Seoul, South Korea 
-1. 2005-2006:	Honor Student, Sookmyung Women’s University, Seoul, South Korea 
+<p> 2021-2022:	Graduate Council Diversity Fellowship, Academic Senate, UCLA, Los Angeles, CA
+<br> 2021:	Graduate Summer Research Mentorship Program, Graduate Division, UCLA, Los Angeles, CA
+<br> 2021:	Peter J. Sawires Memorial Conference Scholarship, National Conference on Health and Domestic Violence, Futures Without Violence, San Francisco, CA
+<br> 2020-2021:	Maternal and Child Health (MCH) Training Program Fellowship, UCLA MCH Center of Excellence in the Geffen School of Medicine 
+<br> 2019:	Second Prize for poster: “Addressing the Rise of Congenital Syphilis: Working toward Setting-specific Solutions among High-Risk Pregnant Women in Kern County, CA and East Baton Rouge Parish, LA”, UCSD Public Health Research Conference 
+<br> 2010-2012:	Graduate Degree Fellowship, East West Center, Honolulu, HI 
+<br> 2008-2009:	Asia Pacific Leadership Program Fellowship, East West Center, Honolulu, HI 
+<br> 2007:	Small international research grant on global women's leadership, Sookmyung Women’s University, Seoul, South Korea 
+<br> 2005-2006:	Honor Student, Sookmyung Women’s University, Seoul, South Korea 
+</p>
 
 **Service and Leadership**
 ======
-1. 2020-present:		Student Interest Group - Executive Committee, UCLA Maternal and Child Health Program, Los Angeles, CA
-1. 2019-present:		Survey Committee, UCLA Fielding School of Public Health, Los Angeles, CA
-1. 2019-present:		Public Health Student Association, UCLA Fielding School of Public Health, Los Angeles, CA
-1. 2019-present:		Parent Group Member, UCLA Early Childhood and Education, University Village, Los Angeles, CA
-1. 2019-present:		Student Member, UCLA Students with Dependent Program, Los Angeles, CA
-  
+<p> 2020-present:		Student Interest Group - Executive Committee, UCLA Maternal and Child Health Program, Los Angeles, CA
+<br> 2019-present:		Survey Committee, UCLA Fielding School of Public Health, Los Angeles, CA
+<br> 2019-present:		Public Health Student Association, UCLA Fielding School of Public Health, Los Angeles, CA
+<br> 2019-present:		Parent Group Member, UCLA Early Childhood and Education, University Village, Los Angeles, CA
+<br> 2019-present:		Student Member, UCLA Students with Dependent Program, Los Angeles, CA
+</p>
+
 **Skills**
 ======
 <p>Language: Korean
