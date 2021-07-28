@@ -15,7 +15,8 @@ redirect_from:
 <br>650 Charles E. Young Drive South
 <br>P.O. Box 951772 
 <br>Los Angeles, CA 90095-1772	
-<br>Wed: linkedin.com/in/eepark/
+<br><a href="https://eunhee-park.github.io/">Academic Website </a>
+<br><a href="https://www.linkedin.com/in/eepark/">LinkedIn Page </a>
 <br>E-mail: eepark@ucla.edu
 </p>
 
