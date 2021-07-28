@@ -24,7 +24,7 @@ Department of Community Health Sciences
 ======
 
 * Ph.D. Community Health Sciences, Fielding School of Public Health; expected June 2023
-<br>University of California Los Angeles, Los Angeles, CA, 
+<br>University of California Los Angeles, Los Angeles, CA
 <br>Advisor: Jennifer Wagman, Ph.D, MHS
 
 * M.P.H. Social and Behavioral Sciences; May 2012
@@ -32,7 +32,7 @@ Department of Community Health Sciences
 <br>Comprehensive Exam: Assessing childhood obesity: Utilizing the “electronic health and wellness survey” during well-child visits at a community health center in rural Hawaii
 
 * B.A. Political Science & International Relations; February 2007					
-<br>Sookmyung Women’s University, Seoul, South Korea February 2007
+<br>Sookmyung Women’s University, Seoul, South Korea
 <br>Minor: English Language & Literature
 
 
