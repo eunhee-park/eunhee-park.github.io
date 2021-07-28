@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-<p>Department of Community Health Sciences
+<P align=right>
+Department of Community Health Sciences
 <br>UCLA Fielding School of Public Health
 <br>Office 46-071
 <br>650 Charles E. Young Drive South
@@ -240,3 +240,5 @@ Skills
 <br>Research-related: Grant Writing, Needs Assessment, Program Monitoring and Evaluation, Qualitative and Quantitative Data Analysis
 <br>Project Website (under development): https://euneepark.github.io/datamotherhood
 </p>
+
+<P align=right> Updated on June 11, 2021 </P> 
