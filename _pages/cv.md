@@ -170,33 +170,22 @@ Interview/Press/Media Coverage
   
 Teaching
 ======
-* 2013:			Teaching Assistant
+1. 2013:			Teaching Assistant
   * Course: Public Health Policy – Implementation on Appropriate Medical Technologies in resource-limited settings
   * College of Medicine, Seoul National University, Seoul, South Korea
-
-* 2009-2010:		English Teacher
+1. 2009-2010:		English Teacher
   * JC English Academy, Hwa-Sung, South Korea
-
-* 2008-2009:		Korean Language Instructor
+1. 2008-2009:		Korean Language Instructor
     * Course: one-on-one tutoring for students in a Bachelor of Arts degree in Korean 
     * Department of East Asian Languages and Literatures
     * Korean Language Flagship Center, University of Hawaii at Manoa, Honolulu, HI, USA
 Training
 ======
-* 2021:		Community Program Monitoring & Evaluation Internship
-  * Center for the Pacific Asian Family, Los Angeles, CA
-
-* 2019:		CITI Training for Human Subject Research
-  * Social Behavioral and Education Research 
-
-* 2017:			Research Administration Training Program	
-  * University of California San Diego, La Jolla, CA
-
-* 2011:			Epidemiology and Population Health Summer Institute 
-  * Mailman School of Public Health, Columbia University, New York, NY
-
-* 2008:			Asia Pacific Leadership Program 
-  * East West Center, Honolulu, HI
+1. 2021:		Community Program Monitoring & Evaluation Internship, Center for the Pacific Asian Family, Los Angeles, CA
+1. 2019:		CITI Training for Human Subject Research, Social Behavioral and Education Research 
+1. 2017:		Research Administration Training Program, University of California San Diego, La Jolla, CA
+1. 2011:		Epidemiology and Population Health Summer Institute, Mailman School of Public Health, Columbia University, New York, NY
+1. 2008:		Asia Pacific Leadership Program, East West Center, Honolulu, HI
 
 Honors and Awards
 ======
@@ -212,20 +201,11 @@ Honors and Awards
 
 Service and Leadership
 ======
-* 2020-present:		Student Interest Group - Executive Committee
-  * UCLA Maternal and Child Health Program, Los Angeles, CA
-  
-* 2019-present:		Survey Committee 
-  * UCLA Fielding School of Public Health, Los Angeles, CA
-  
-* 2019-present:			Public Health Student Association
-  * UCLA Fielding School of Public Health, Los Angeles, CA
-  
-* 2019-present:		Parent Group Member
-  * UCLA Early Childhood and Education, University Village, Los Angeles, CA
-  
-* 2019-present:		Student Member
-  * UCLA Students with Dependent Program, Los Angeles, CA
+1. 2020-present:		Student Interest Group - Executive Committee, UCLA Maternal and Child Health Program, Los Angeles, CA
+1. 2019-present:		Survey Committee, UCLA Fielding School of Public Health, Los Angeles, CA
+1. 2019-present:		Public Health Student Association, UCLA Fielding School of Public Health, Los Angeles, CA
+1. 2019-present:		Parent Group Member, UCLA Early Childhood and Education, University Village, Los Angeles, CA
+1. 2019-present:		Student Member, UCLA Students with Dependent Program, Los Angeles, CA
   
 Skills
 ======
