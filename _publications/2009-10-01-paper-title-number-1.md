@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Republic of Korea's Health Aid Governance: Perspectives from Partner Countries"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2015-11-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4659868/'
+citation: 'Alley, A. B., Park, E., Lee, J. K., Kang, M., & Oh, J. (2015). Republic of Korea's Health Aid Governance: Perspectives from Partner Countries. Journal of Korean medical science, 30 Suppl 2(Suppl 2), S149–S154.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The Republic of Korea is continuing to develop its capacity as a good donor but has yet to achieve all governance-related targets. The results of this survey can be used to inform a future aid strategy.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4659868/pdf/jkms-30-S149.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Alley, A. B., Park, E., Lee, J. K., Kang, M., & Oh, J. (2015). Republic of Korea's Health Aid Governance: Perspectives from Partner Countries. Journal of Korean medical science, 30 Suppl 2(Suppl 2), S149–S154. https://doi.org/10.3346/jkms.2015.30.S2.S149
