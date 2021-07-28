@@ -35,6 +35,6 @@ a.	Park E, Bonnevie E, Nabulizi MB, Mushi J, Ntinda M, Nakuti J, Karungi E, Mich
 
 b.	Alley AB, Park E, Lee JK, Kang M, Oh J. Republic of Korea's Health Aid Governance: Perspectives from Partner Countries. Journal of Korean medical science. 2015; 30 Suppl 2:S149-54. PMCID: PMC4659868
 
-Complete List of Published Work in [My NCBI NIH Bibliography].(https://www.ncbi.nlm.nih.gov/myncbi/1n9UkwM-rzoUVO/bibliography/public)
+Complete List of Published Work in <a href="https://www.ncbi.nlm.nih.gov/myncbi/1n9UkwM-rzoUVO/bibliography/public">Eunhee Park's NCBI Library</a>  
 
 <P align=right> Updated on June 11, 2021 </P> 
