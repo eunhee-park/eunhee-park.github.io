@@ -22,17 +22,17 @@ Department of Community Health Sciences
 
 Education
 ======
-* Ph.D. Community Health Sciences, Fielding School of Public Health
-University of California Los Angeles (Los Angeles, CA) expected June 2023
-Advisor: Jennifer Wagman, Ph.D, MHS
+* Ph.D. Community Health Sciences, Fielding School of Public Health; expected June 2023
+<br>University of California Los Angeles, Los Angeles, CA, 
+<br>Advisor: Jennifer Wagman, Ph.D, MHS
 
-* M.P.H. Social and Behavioral Sciences
-University of Hawaii at Manoa (Honolulu, HI) May 2012  
-Comprehensive Exam: Assessing childhood obesity: Utilizing the “electronic health and wellness survey” during well-child visits at a community health center in rural Hawaii
+* M.P.H. Social and Behavioral Sciences; May 2012  
+<br>University of Hawaii at Manoa, Honolulu, HI 
+<br>Comprehensive Exam: Assessing childhood obesity: Utilizing the “electronic health and wellness survey” during well-child visits at a community health center in rural Hawaii
 
-* B.A. Political Science & International Relations					
-Sookmyung Women’s University (Seoul, South Korea) February 2007
-Minor: English Language & Literature
+* B.A. Political Science & International Relations; February 2007					
+<br>Sookmyung Women’s University, Seoul, South Korea February 2007
+<br>Minor: English Language & Literature
 
 Research interests 
 ======
@@ -49,32 +49,26 @@ Work experience
 ======
 * 2017-2019:		Research Program Manager
   * Center on Gender Equity and Health 
-  * University of California San Diego School of Medicine 
-  * La Jolla, CA, USA				
+  * University of California San Diego School of Medicine, La Jolla, CA, USA			 
 
 * 2015-2017:		Research Project Coordinator					
   * Division of Infectious Diseases and Global Public Health
-  * University of California San Diego School of Medicine
-  * La Jolla, CA, USA
+  * University of California San Diego School of Medicine, La Jolla, CA, USA
 
 * 2013-2015:		Staff Researcher									
   * JWLEE Center for Global Medicine
-  * College of Medicine, Seoul National University
-  * Seoul, South Korea
-  
+  * College of Medicine, Seoul National University, Seoul, South Korea
+
 * 2011-2012:		Graduate Research Assistant								
   * Department of Urban and Regional Planning
-  * University of Hawaii at Manoa
-  * Honolulu, HI, USA
+  * University of Hawaii at Manoa, Honolulu, HI, USA
 
 * 2007-2008:			Program Coordinator
-  * Executive Master of Law Program jointly offered by Northwestern Law School and Korean Advanced Institute of Science and Technology 
-  * Seoul, South Korea
+  * Executive Master of Law Program jointly offered by Northwestern Law School and Korean Advanced Institute of Science and Technology, Seoul, South Korea
 
 * 2006-2007:			Development Instructor
   * Youth HIV Prevention Project						
-  * Humana People to People
-  * Lusaka, Zambia 
+  * Humana People to People, Lusaka, Zambia 
 
 Research experience
 ======
