@@ -105,17 +105,17 @@ Amato K, Park E, Nigg CR. Prioritizing multiple health behavior change research 
 
 Alley AB, Park E, Lee JK, Kang M, Oh J. Republic of Korea's Health Aid Governance: Perspectives from Partner Countries. Journal of Korean medical science. 2015; 30 Suppl 2:S149-54. PMCID: PMC4659868
 
-Accepted publications:
+<ins>Accepted publications:</ins>
 
 Carey S, Sumstine S, Amabile C, Helvink H, Sorin C, Swendeman D, Park E, Wagman J. Student-Athletes', Coaches' and Administrators' Perspectives of Sexual Violence Prevention on Three Campuses with NCAA Division I and II Athletic Programs (Journal of Interpersonal Violence)
 
 Bloom B, Park E, Sumstine S, Amabile C, Oaks L, Swendeman D, Wagman J. Student-generated solutions to improve sexual violence response and prevention efforts on University of California campuses. (Violence Against Women)
 
-Publications under review: 
+<ins>Publications under review:</ins> 
 
 Park E, Wolfe SJ, Nalugoda F, Stark L, Nakyanjo N, Ddaaki W, Ssekyewa C, Wagman J. Engaging men and boys in a gender-transformative intimate partner violence prevention program: Qualitative findings from Rakai, Uganda (Global Health: Science and Practice)
 
-Publications in preparation:
+<ins>Publications in preparation:</ins> 
 
 Park E, Yip J, Harville E, Nelson M, Giarratano G, Buekens P, Wagman J. Qualitative Assessment on the Rise of Congenital Syphilis in California: Identifying Gaps in Preventing Congenital Syphilis. (Target Journal)
 
@@ -186,19 +186,19 @@ Teaching
 Training
 ======
 * 2021:		Community Program Monitoring & Evaluation Internship
-  * Center for the Pacific Asian Family | Los Angeles, CA
+  * Center for the Pacific Asian Family, Los Angeles, CA
 
 * 2019:		CITI Training for Human Subject Research
   * Social Behavioral and Education Research 
 
 * 2017:			Research Administration Training Program	
-  * University of California San Diego | La Jolla, CA
+  * University of California San Diego, La Jolla, CA
 
-* 2011:			Epidemiology and Population Health Summer Institute 			Mailman School of Public Health
-  * Columbia University | New York, NY
+* 2011:			Epidemiology and Population Health Summer Institute 
+  * Mailman School of Public Health, Columbia University, New York, NY
 
 * 2008:			Asia Pacific Leadership Program 
-  * East West Center | Honolulu, HI
+  * East West Center, Honolulu, HI
 
 Honors and Awards
 ======
@@ -215,26 +215,27 @@ Honors and Awards
 Service and Leadership
 ======
 * 2020-present:		Student Interest Group - Executive Committee
-  * UCLA Maternal and Child Health Program | Los Angeles, CA
+  * UCLA Maternal and Child Health Program, Los Angeles, CA
   
 * 2019-present:		Survey Committee 
-  * UCLA Fielding School of Public Health | Los Angeles, CA
+  * UCLA Fielding School of Public Health, Los Angeles, CA
   
 * 2019-present:			Public Health Student Association
-  * UCLA Fielding School of Public Health | Los Angeles, CA
+  * UCLA Fielding School of Public Health, Los Angeles, CA
   
 * 2019-present:		Parent Group Member
-  * UCLA Early Childhood and Education, University Village | Los Angeles, CA
+  * UCLA Early Childhood and Education, University Village, Los Angeles, CA
   
 * 2019-present:		Student Member
-  * UCLA Students with Dependent Program | Los Angeles, CA
+  * UCLA Students with Dependent Program, Los Angeles, CA
 
 Skills
 ======
-Language: Korean
-Statistical Analysis: SAS, SPSS, Stata, R, Tableau
-Qualitative Analysis: QSR Nvivo, Dedoose, Trint, Voyant
-Survey Software: Qualtrics, REDCap, Survey Monkey
-Design or Programming Language: Canva, Adobe InDesign, HTML, CSS
-Research-related: Grant Writing, Needs Assessment, Program Monitoring and Evaluation, Qualitative and Quantitative Data Analysis
-Project Website (under development): https://euneepark.github.io/datamotherhood
+<p>Language: Korean
+<br>Statistical Analysis: SAS, SPSS, Stata, R, Tableau
+<br>Qualitative Analysis: QSR Nvivo, Dedoose, Trint, Voyant
+<br>Survey Software: Qualtrics, REDCap, Survey Monkey
+<br>Design or Programming Language: Canva, Adobe InDesign, HTML, CSS
+<br>Research-related: Grant Writing, Needs Assessment, Program Monitoring and Evaluation, Qualitative and Quantitative Data Analysis
+<br>Project Website (under development): https://euneepark.github.io/datamotherhood
+</p>
