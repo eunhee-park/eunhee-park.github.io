@@ -90,59 +90,59 @@ Research experience
 
 Publications
 ======
-Chan EYL, Smullin C, Clavijo S, Papp-Green M, Park E, et al. (2021) A qualitative assessment of structural barriers to prenatal care and congenital syphilis prevention in Kern County, California. PLOS ONE 16(4): e0249419.
+1. Chan EYL, Smullin C, Clavijo S, Papp-Green M, <b>Park E</b>, et al. (2021) A qualitative assessment of structural barriers to prenatal care and congenital syphilis prevention in Kern County, California. PLOS ONE 16(4): e0249419.
 
-Wagman JA, Nabukalu D, Miller AP, Wawer MJ, Ssekubugu R, Nakowooya H, Nantume B, Park E, Hahn JA, Serwadda DM, Sewankambo NK, Nalugoda F, Kigozi G. Prevalence and correlates of men's and women's alcohol use in agrarian, trading and fishing communities in Rakai, Uganda. PLoS One. 2020;15(10):e0240796. 
+1. Wagman JA, Nabukalu D, Miller AP, Wawer MJ, Ssekubugu R, Nakowooya H, Nantume B, <b>Park E</b>, Hahn JA, Serwadda DM, Sewankambo NK, Nalugoda F, Kigozi G. Prevalence and correlates of men's and women's alcohol use in agrarian, trading and fishing communities in Rakai, Uganda. PLoS One. 2020;15(10):e0240796. 
 
-Park E, Stockman JK, Thrift B, Nicole A, Smith LR. Structural Barriers to Women's Sustained Engagement in HIV Care in Southern California. AIDS Behav. 2020 Oct;24(10):2966-2974. doi: 10.1007/s10461-020-02847-9. PMID: 32323105; PMCID: PMC7790164. 
+1. <b>Park E<b/>, Stockman JK, Thrift B, Nicole A, Smith LR. Structural Barriers to Women's Sustained Engagement in HIV Care in Southern California. AIDS Behav. 2020 Oct;24(10):2966-2974. doi: 10.1007/s10461-020-02847-9. PMID: 32323105; PMCID: PMC7790164. 
 
-Amato K, Park E, Nigg CR. Prioritizing multiple health behavior change research topics: expert opinions in behavior change science. Translational behavioral medicine. 2016; 6:220-7. PMCID: PMC4927446
+1. Amato K, <b>Park E</b>, Nigg CR. Prioritizing multiple health behavior change research topics: expert opinions in behavior change science. Translational behavioral medicine. 2016; 6:220-7. PMCID: PMC4927446
 
-Alley AB, Park E, Lee JK, Kang M, Oh J. Republic of Korea's Health Aid Governance: Perspectives from Partner Countries. Journal of Korean medical science. 2015; 30 Suppl 2:S149-54. PMCID: PMC4659868
+1. Alley AB, <b>Park E</b>, Lee JK, Kang M, Oh J. Republic of Korea's Health Aid Governance: Perspectives from Partner Countries. Journal of Korean medical science. 2015; 30 Suppl 2:S149-54. PMCID: PMC4659868
 
 <ins>Accepted publications:</ins>
 
-Carey S, Sumstine S, Amabile C, Helvink H, Sorin C, Swendeman D, Park E, Wagman J. Student-Athletes', Coaches' and Administrators' Perspectives of Sexual Violence Prevention on Three Campuses with NCAA Division I and II Athletic Programs (Journal of Interpersonal Violence)
+Carey S, Sumstine S, Amabile C, Helvink H, Sorin C, Swendeman D, <b>Park E</b>, Wagman J. Student-Athletes', Coaches' and Administrators' Perspectives of Sexual Violence Prevention on Three Campuses with NCAA Division I and II Athletic Programs (Journal of Interpersonal Violence)
 
-Bloom B, Park E, Sumstine S, Amabile C, Oaks L, Swendeman D, Wagman J. Student-generated solutions to improve sexual violence response and prevention efforts on University of California campuses. (Violence Against Women)
+Bloom B, <b>Park E</b>, Sumstine S, Amabile C, Oaks L, Swendeman D, Wagman J. Student-generated solutions to improve sexual violence response and prevention efforts on University of California campuses. (Violence Against Women)
 
 <ins>Publications under review:</ins> 
 
-Park E, Wolfe SJ, Nalugoda F, Stark L, Nakyanjo N, Ddaaki W, Ssekyewa C, Wagman J. Engaging men and boys in a gender-transformative intimate partner violence prevention program: Qualitative findings from Rakai, Uganda (Global Health: Science and Practice)
+<b>Park E</b>, Wolfe SJ, Nalugoda F, Stark L, Nakyanjo N, Ddaaki W, Ssekyewa C, Wagman J. Engaging men and boys in a gender-transformative intimate partner violence prevention program: Qualitative findings from Rakai, Uganda (Global Health: Science and Practice)
 
 <ins>Publications in preparation:</ins> 
 
-Park E, Yip J, Harville E, Nelson M, Giarratano G, Buekens P, Wagman J. Qualitative Assessment on the Rise of Congenital Syphilis in California: Identifying Gaps in Preventing Congenital Syphilis. (Target Journal)
+<b>Park E</b>, Yip J, Harville E, Nelson M, Giarratano G, Buekens P, Wagman J. Qualitative Assessment on the Rise of Congenital Syphilis in California: Identifying Gaps in Preventing Congenital Syphilis. (Target Journal)
 
-Thrift B, Park E, Siebert S, Paul E, Elie J, Michau L, Namy S, Wagman J. “Haitianizing” SASA! to Effectively Reduce Violence Against Women in a Caribbean Community: A Mixed Method Study from Jacmel, Haiti. (Target Journal: Evaluation and Program Planning) 
+Thrift B, <b>Park E</b>, Siebert S, Paul E, Elie J, Michau L, Namy S, Wagman J. “Haitianizing” SASA! to Effectively Reduce Violence Against Women in a Caribbean Community: A Mixed Method Study from Jacmel, Haiti. (Target Journal: Evaluation and Program Planning) 
 
 Abstracts and Presentations
 ======  
-Park E, Yip J, Kukke S, Caffery M, Johnson A, Huerta M, Amabile C, Wagman J. Effectiveness of cues intervention training for health care providers in US HIV clinic setting. National Conference on Health and Domestic Violence [Poster Presentation] Online. April 28-30, 2021.
+1. Park E, Yip J, Kukke S, Caffery M, Johnson A, Huerta M, Amabile C, Wagman J. Effectiveness of cues intervention training for health care providers in US HIV clinic setting. National Conference on Health and Domestic Violence [Poster Presentation] Online. April 28-30, 2021.
 
-Carey S, Amabile C, Sumstine S, Helvink H, Sorin C, Park E, Wagman J. Similarities and differences in NCAA student athletes', coaches' and administrators' perspectives of campus-based sexual violence. National Conference on Health and Domestic Violence [Poster Presentation] Online. April 28-30, 2021.
+1. Carey S, Amabile C, Sumstine S, Helvink H, Sorin C, Park E, Wagman J. Similarities and differences in NCAA student athletes', coaches' and administrators' perspectives of campus-based sexual violence. National Conference on Health and Domestic Violence [Poster Presentation] Online. April 28-30, 2021.
 
-Sorin C, Amabile C, Carey S, Mahesh V, Park E, Sumstine S, Wagman J. Mandatory reporting at the University of California: An analysis of graduate student, staff, and faculty perspectives. National Conference on Health and Domestic Violence [Poster Presentation] Online. April 28-30, 2021.
+1> Sorin C, Amabile C, Carey S, Mahesh V, Park E, Sumstine S, Wagman J. Mandatory reporting at the University of California: An analysis of graduate student, staff, and faculty perspectives. National Conference on Health and Domestic Violence [Poster Presentation] Online. April 28-30, 2021.
 
-Bloom B, Park E, Sumstine S, Amabile C, Oaks L, Swendeman D, Wagman J. Student-generated solutions to improve sexual violence response and prevention efforts on University of California campuses. APHA Annual Meeting and Expo. [Oral Presentation] Online. October 24-28, 2020.
+1. Bloom B, Park E, Sumstine S, Amabile C, Oaks L, Swendeman D, Wagman J. Student-generated solutions to improve sexual violence response and prevention efforts on University of California campuses. APHA Annual Meeting and Expo. [Oral Presentation] Online. October 24-28, 2020.
 
-Carey, S., Sumstine, S., Amabile, C., Helvik, H., Sorin, C., Swendeman, D., Park E, Wagman, J. Student-athletes', coaches' and administrators' perspectives of sexual violence on three campuses with NCAA division I and II athletic programs. APHA Annual Meeting and Expo. [Oral Presentation] Online. October 24-28, 2020. 
+1. Carey, S., Sumstine, S., Amabile, C., Helvik, H., Sorin, C., Swendeman, D., Park E, Wagman, J. Student-athletes', coaches' and administrators' perspectives of sexual violence on three campuses with NCAA division I and II athletic programs. APHA Annual Meeting and Expo. [Oral Presentation] Online. October 24-28, 2020. 
 
-Sumstine, S., Sade Murphy, A. S., Carey, S., Amabile, C., Bloom, B., Park E, Swendeman, D., Wagman, J. Using an intersectional lens to examine perceptions about campus sexual violence resources and reporting options at the University of California. APHA Annual Meeting and Expo. [Oral Presentation] Online. October 24-28, 2020.
+1. Sumstine, S., Sade Murphy, A. S., Carey, S., Amabile, C., Bloom, B., Park E, Swendeman, D., Wagman, J. Using an intersectional lens to examine perceptions about campus sexual violence resources and reporting options at the University of California. APHA Annual Meeting and Expo. [Oral Presentation] Online. October 24-28, 2020.
 
-Park, E. Identifying Gaps in Prenatal Syphilis Screening and Treatment in Kern County, CA. UCLA Maternal and Child Health Virtual Poster Symposium. [Oral Presentation] Online. September 10, 2020. 
+1. Park, E. Identifying Gaps in Prenatal Syphilis Screening and Treatment in Kern County, CA. UCLA Maternal and Child Health Virtual Poster Symposium. [Oral Presentation] Online. September 10, 2020. 
 
-Park E, Nalugoda, F, Nakyanjo N, Nakigozi G, Wagman J. “Good masculinity” versus “Real masculinity” related to IPV: Qualitative findings from Rakai, Uganda. The Sexual Violence Research Institute Forum. [Oral Presentation] Cape Town, South Africa. October 21-25, 2019.
+1. Park E, Nalugoda, F, Nakyanjo N, Nakigozi G, Wagman J. “Good masculinity” versus “Real masculinity” related to IPV: Qualitative findings from Rakai, Uganda. The Sexual Violence Research Institute Forum. [Oral Presentation] Cape Town, South Africa. October 21-25, 2019.
 
-Wagman J, Fielding-Miller R, Park E, Yap M, Silverman J, Oaks L, Swendeman D, Sumstine S, Amabile C, Smith M. Student-led research to assess the climate for sexual and dating violence prevention at three University of California campuses. The Sexual Violence Research Institute Forum. [Oral Presentation] Cape Town, South Africa, October 21-25, 2019.
+1. Wagman J, Fielding-Miller R, Park E, Yap M, Silverman J, Oaks L, Swendeman D, Sumstine S, Amabile C, Smith M. Student-led research to assess the climate for sexual and dating violence prevention at three University of California campuses. The Sexual Violence Research Institute Forum. [Oral Presentation] Cape Town, South Africa, October 21-25, 2019.
 
-Park E, Bonnevie E, Nabu MB, Mushi J, Ntinda M, Michau L, Namy S, Ghebrebrhan N, Wagman J. Adapting SASA! to prevent violence in rural Tanzania: Lessons learned form a mixed methods case study. RTI Ending Gender Inequalities Conference. [Poster Presentation] Johannesburg, South Africa. October 8-9, 2018.
+1. Park E, Bonnevie E, Nabu MB, Mushi J, Ntinda M, Michau L, Namy S, Ghebrebrhan N, Wagman J. Adapting SASA! to prevent violence in rural Tanzania: Lessons learned form a mixed methods case study. RTI Ending Gender Inequalities Conference. [Poster Presentation] Johannesburg, South Africa. October 8-9, 2018.
 
-Thrift B, Siebert S, Park E, Bonnevie E, Paul E, Elie JP, Michau L, Ghebrebrhan N, Namy S, Wagman J. “Haitianizing” SASA! to reduce violence against women and girls and HIV risk in a Caribbean community: A qualitative study from Jacmél, Haiti. RTI Ending Gender Inequalities Conference. [Poster Presentation] Johannesburg, South Africa. October 8-9, 2018.
+1. Thrift B, Siebert S, Park E, Bonnevie E, Paul E, Elie JP, Michau L, Ghebrebrhan N, Namy S, Wagman J. “Haitianizing” SASA! to reduce violence against women and girls and HIV risk in a Caribbean community: A qualitative study from Jacmél, Haiti. RTI Ending Gender Inequalities Conference. [Poster Presentation] Johannesburg, South Africa. October 8-9, 2018.
 
-Nicole A, Stockman J, Falvey E, Park E, Thrift B, Smith L. Beyond HIV: A qualitative exploration of factors impacting women's engagement in HIV treatment. The San Diego Center for AIDS Research Annual HIV Research Day. [Oral Presentation] San Diego, CA, December 6, 2017
+1. Nicole A, Stockman J, Falvey E, Park E, Thrift B, Smith L. Beyond HIV: A qualitative exploration of factors impacting women's engagement in HIV treatment. The San Diego Center for AIDS Research Annual HIV Research Day. [Oral Presentation] San Diego, CA, December 6, 2017
 
-Park E, Okihiro M. Assessing childhood obesity: Utilizing the “Electronic Health and Wellness Survey” during well-child visits at a community health center in rural Hawaii. American Public Health Association Annual Meeting & Exposition. [Poster Presentation] San Francisco, CA. October 27-31, 2012
+1. Park E, Okihiro M. Assessing childhood obesity: Utilizing the “Electronic Health and Wellness Survey” during well-child visits at a community health center in rural Hawaii. American Public Health Association Annual Meeting & Exposition. [Poster Presentation] San Francisco, CA. October 27-31, 2012
 
 Reports and White papers
 ======  
@@ -167,17 +167,16 @@ Interview/Press/Media Coverage
 Teaching
 ======
 * 2013:			Teaching Assistant
-  * College of Medicine, Seoul National University, Seoul, South Korea
   * Course: Public Health Policy – Implementation on Appropriate Medical Technologies in resource-limited settings
+  * College of Medicine, Seoul National University, Seoul, South Korea
 
 * 2009-2010:		English Teacher
   * JC English Academy, Hwa-Sung, South Korea
 
 * 2008-2009:		Korean Language Instructor
-  * Department of East Asian Languages and Literatures
-  * Korean Language Flagship Center, University of Hawaii at Manoa
-  * Course: one-on-one tutoring for students in a Bachelor of Arts degree in Korean 
-
+    * Course: one-on-one tutoring for students in a Bachelor of Arts degree in Korean 
+    * Department of East Asian Languages and Literatures
+    * Korean Language Flagship Center, University of Hawaii at Manoa, Honolulu, HI, USA
 Training
 ======
 * 2021:		Community Program Monitoring & Evaluation Internship
