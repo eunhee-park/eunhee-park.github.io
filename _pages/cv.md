@@ -91,6 +91,7 @@ Research experience
 Publications
 ======
 <p>
+  
 1. Chan EYL, Smullin C, Clavijo S, Papp-Green M, <b>Park E</b>, et al. (2021) A qualitative assessment of structural barriers to prenatal care and congenital syphilis prevention in Kern County, California. PLOS ONE 16(4): e0249419.
 
 1. Wagman JA, Nabukalu D, Miller AP, Wawer MJ, Ssekubugu R, Nakowooya H, Nantume B, <b>Park E</b>, Hahn JA, Serwadda DM, Sewankambo NK, Nalugoda F, Kigozi G. Prevalence and correlates of men's and women's alcohol use in agrarian, trading and fishing communities in Rakai, Uganda. PLoS One. 2020;15(10):e0240796. 
