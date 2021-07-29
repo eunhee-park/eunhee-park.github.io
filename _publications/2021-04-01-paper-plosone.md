@@ -1,7 +1,7 @@
 ---
 title: "A qualitative assessment of structural barriers to prenatal care and congenital syphilis prevention in Kern County, California"
 collection: publications
-permalink: /publication/2021-04-01-paper-plosone
+permalink: /publications/2021-04-01-paper-plosone
 excerpt: 'The response to congenital syphilis prevention will require an examination of the complex context of social determinants of health in which persons diagnosed with syphilis live in.'
 date: 2021-04-01
 venue: 'Plos One'
