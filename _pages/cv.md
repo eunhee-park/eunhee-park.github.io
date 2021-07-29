@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<P align=right>
+<P align=right> <i>
 Department of Community Health Sciences
 <br>UCLA Fielding School of Public Health
 <br>Office 46-071
@@ -18,6 +18,7 @@ Department of Community Health Sciences
 <br><a href="https://eunhee-park.github.io/">Academic Website </a>
 <br><a href="https://www.linkedin.com/in/eepark/">LinkedIn Page </a>
 <br>E-mail: eepark@ucla.edu
+  </i>
 </p>
 
 **Education**
