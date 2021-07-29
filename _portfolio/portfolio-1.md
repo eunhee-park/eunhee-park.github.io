@@ -8,4 +8,4 @@ data motherhood, is named after Data Feminism (D'lgnazio and Klein, 2020) that p
 
 I am a public health researcher focusing on women's health, particularly sexual and reproductive health. My interest naturally extends to maternal and child health. I see the journey of motherhood is a life-long process that could oppress and liberate people, and I'd illustrate the various dimensions and processes of women's health through data visualization incorporating aforementioned approaches.
 
-<a href="https://euneepark.github.io/datamotherhood/index.html#header1-f">data motherhood project website;under development</a>
+<a href="https://euneepark.github.io/datamotherhood/index.html#header1-f">data motherhood project website (under development) </a>
