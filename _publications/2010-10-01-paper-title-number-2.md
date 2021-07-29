@@ -6,7 +6,7 @@ excerpt: ' Poverty, unemployment, housing instability, and needs for transportat
 date: 2020-04-22
 venue: 'AIDS and Behavior'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+
 ---
 **Abstract**
 <br>Since the introduction of antiretroviral therapy, the number of women living with HIV (WLHIV) continues to increase. Despite the decrease in HIV diagnosis among women in California, less than half of WLHIV are retained in HIV care. Structural barriers put women at increased risk for delayed HIV diagnosis, delayed entry into HIV care, and poorer treatment outcomes. The objective of this qualitative analysis is to identify how structural barriers negatively impact women's sustained engagement in HIV care in Southern California. WLHIV accessing local HIV support services participated in a qualitative study by completing a semi-structured interview and brief survey between January and April 2015 (n = 30). Poverty, unemployment, housing instability, and needs for transportation emerged as the dominant structural barriers for women when discussing their challenges with sustained engagement in HIV care. System-level interventions that decrease these noted barriers may help improve HIV care continuum for women living in Southern California.
