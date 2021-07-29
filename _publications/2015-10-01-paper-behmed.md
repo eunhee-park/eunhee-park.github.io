@@ -1,7 +1,7 @@
 ---
 title: "Prioritizing multiple health behavior change research topics: expert opinions in behavior change science"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2015-10-01-paper-behmed
 excerpt: 'Top multiple health behavior change research priorities were predictors of behavior change and the sustainability, long-term effects, and dissemination/translation of interventions for both populations. Recruitment and retention of participants, multi-behavioral indices, and measurement burden were important for the underserved.'
 date: 2016-06-01
 venue: 'Translational Behavior Medicine'
