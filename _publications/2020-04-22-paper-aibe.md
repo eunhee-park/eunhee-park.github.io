@@ -1,5 +1,5 @@
 ---
-title: "Structural Barriers to Women's Sustained Engagement in HIV Care in Southern California"
+title: "Structural barriers to women's sustained engagement in HIV care in Southern California"
 collection: publications
 permalink: /publication/2020-04-22-paper-aibe
 excerpt: ' Poverty, unemployment, housing instability, and needs for transportation emerged as the dominant structural barriers for women when discussing their challenges with sustained engagement in HIV care. System-level interventions that decrease these noted barriers may help improve HIV care continuum for women living in Southern California.'
