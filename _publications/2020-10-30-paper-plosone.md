@@ -1,7 +1,7 @@
 ---
 title: "Prevalence and correlates of men’s and women’s alcohol use in agrarian, trading and fishing communities in Rakai, Uganda"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-4
+permalink: /publication/2020-10-30-paper-behmed
 excerpt: 'Alcohol use differed by gender, community type and occupation. Being male, living in a fishing community and working as a fisherman or restaurant/bar worker (among women) were associated with higher odds of drinking. Alcohol reduction programs should be implemented in Uganda’s fishing communities and among people working in high risk occupations (e.g., fishermen and restaurant/bar workers).'
 date: 2020-10-30
 venue: 'Plos One'
