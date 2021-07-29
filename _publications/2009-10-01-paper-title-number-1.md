@@ -5,7 +5,6 @@ permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: 'The survey results indicate that progress has been made since earlier international evaluations but the ROK has not overcome all areas of concern. This confirms that the ROK is continuing to develop its capacity as a good donor but has yet to achieve all governance-related targets. The results of this survey can be used to inform a future aid strategy.'
 date: 2015-11-01
 venue: 'Journal of Korean Medical Science'
-paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4659868/pdf/jkms-30-S149.pdf'
 
 ---
 **Abstract**
