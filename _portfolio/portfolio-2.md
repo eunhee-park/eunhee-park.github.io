@@ -16,7 +16,10 @@ Despite the high proportion of Asian international students in the U.S. educatio
 
 Previous UC Speaks Up study findings indicate there are substantial gaps in the availability of culturally appropriate and accessible SVSH services for international UC students, i.e., students enrolled for credit at a UC campus on a non-immigrant visa status (without a valid green card). The purpose of the Double Jeopardy Study is to build on these findings by exploring Asian international students’ experiences related to SVSH during their time in U.S., both before and during COVID-19. Our research aims to specifically examine xenophobia-related trauma, help seeking methods, barriers and facilitators to accessing support services, and if there are added vulnerabilities due to COVID-19 among Asian international student survivors of SVSH.
 
-The goal of the Double Jeopardy Study is to open the conversation about Asian international students’ experiences of SVSH during the pandemic, and use evidence-based practice to improve services to help students access supportive resources. We stand with survivors and advocate for student- and survivor-centered research and practice.
+The goal of the Double Jeopardy Study is to open the conversation about Asian international students’ experiences of SVSH during the pandemic, and use evidence-based practice to improve services to help students access supportive resources. We stand with survivors and advocate for student- and survivor-centered research and practice. 
+
+Click [HERE](https://laist.com/news/education/campus-anti-asian-hate) for the media coverage.
+“How — And Why — Academic Researchers Are Taking On Anti-Asian Hate.” By Adolfo Guzman-Lopez, LAist & Southern California Public Radio (SCPR), May 3, 2021. 
 
 We are seeking international Asian student survivors of SVSH who are 18 years or older to participate in a short survey and a confidential, 1-hour Zoom interview. SVSH includes sexual assault, sexual harassment, stalking, dating and/or intimate partner violence. Students from all 10 UC campuses are eligible to participate.
 
