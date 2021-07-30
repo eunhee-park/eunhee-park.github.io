@@ -24,7 +24,7 @@ We are seeking international Asian student survivors of SVSH who are 18 years or
 
 1. Aged 18 years and over
 2. Identifying as a woman* 
->Individuals of sexual and racial minorities are at higher risk of experiencing sexual violence and other types of harm. This study will be inclusive of both ciswomen and transwomen in our study population and we do not exclude any women because of their assigned sex at birth.
+_Individuals of sexual and racial minorities are at higher risk of experiencing sexual violence and other types of harm. This study will be inclusive of both ciswomen and transwomen in our study population and we do not exclude any women because of their assigned sex at birth._
 4. Being a citizen of one of the East Asian countries
 5. Attending (or, graduated past 12 months) one of the University of California campuses, and
 6. Having experienced sexual violence and/or sexual harassment (example: sexual violence, sexual harassment, intimate partner violence/dating violence, stalking) while enrolled as a student.
