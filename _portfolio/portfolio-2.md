@@ -32,7 +32,7 @@ We are seeking international Asian student survivors of SVSH who are 18 years or
 
 **If you are interested in participating,**
 
-Please click HERE(https://uclahs.az1.qualtrics.com/jfe/form/SV_5dvEobBHRddb55A)
+Please click [HERE](https://uclahs.az1.qualtrics.com/jfe/form/SV_5dvEobBHRddb55A)
 
 Or, copy and paste the URL below into your internet browser:
 
@@ -44,7 +44,7 @@ The full survey will take around 15-20 mins to finish.
 
 Upon completion, you will receive a 5 dollar Amazon e-gift code.
 
-We will also ask you if you are willing to participate in a follow-up interview, which will last about an hour. Interview participants will receive an additional $25 gift card upon completion. Interview participants will have an option to choose English, Chinese (Mandarin), and/or Korean. Other languages can be accommodated as needed.
+> We will also ask you if you are willing to participate in a follow-up interview, which will last about an hour. Interview participants will receive an additional $25 gift card upon completion. Interview participants will have an option to choose English, Chinese (Mandarin), and/or Korean. Other languages can be accommodated as needed.
 
 Your participation may help us to understand help-seeking behavior after sexual violence and other types of interpersonal abuse and generate ideas for tailored services to meet international students’ needs.
 
