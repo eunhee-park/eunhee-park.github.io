@@ -10,7 +10,7 @@ community as a whole. Our study aims to understand the links between sexual viol
 collection: portfolio
 ---
 
-#### Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19
+## Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19
 
 Despite the high proportion of Asian international students in the U.S. education system, including across all University of California (UC) campuses, there is a gap in the research literature on the intersecting identities of being a foreigner in U.S. and the ascribed identity of being Asian. Additionally, little is known about how these identities affect risk for exposure to sexual violence and practice of key help-seeking behaviors. Since the start of the COVID-19 pandemic, Asian students’ risk for sexual violence and sexual harassment (SVSH) on college campuses has increased due to anti-Asian xenophobia and social isolation. Moreover, visa restrictions on the Student and Exchange Visitor Program (SEVP) enforced by the Department of Homeland Security Immigration and Custom Enforcement (ICE) may inhibit international students’ willingness to seek essential SVSH advocacy and support services available on and off campus.
 
