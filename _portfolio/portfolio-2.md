@@ -19,7 +19,8 @@ Previous UC Speaks Up study findings indicate there are substantial gaps in the 
 The goal of the Double Jeopardy Study is to open the conversation about Asian international students’ experiences of SVSH during the pandemic, and use evidence-based practice to improve services to help students access supportive resources. We stand with survivors and advocate for student- and survivor-centered research and practice. 
 
 Click [HERE](https://laist.com/news/education/campus-anti-asian-hate) for the media coverage.
-“How — And Why — Academic Researchers Are Taking On Anti-Asian Hate.” By Adolfo Guzman-Lopez, LAist & Southern California Public Radio (SCPR), May 3, 2021. 
+
+_“How — And Why — Academic Researchers Are Taking On Anti-Asian Hate.” By Adolfo Guzman-Lopez, LAist & Southern California Public Radio (SCPR), May 3, 2021._ 
 
 We are seeking international Asian student survivors of SVSH who are 18 years or older to participate in a short survey and a confidential, 1-hour Zoom interview. SVSH includes sexual assault, sexual harassment, stalking, dating and/or intimate partner violence. Students from all 10 UC campuses are eligible to participate.
 
