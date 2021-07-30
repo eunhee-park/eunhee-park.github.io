@@ -81,31 +81,31 @@ Department of Community Health Sciences
 
 Abstracts and Presentations
 ======  
-1. **Park, E.**, Yip, J., Kukke, S., Caffery, M., Johnson, A., Huerta, M., Amabile, C., Wagman, J. Effectiveness of cues intervention training for health care providers in US HIV clinic setting. National Conference on Health and Domestic Violence [Poster Presentation] Online. April 28-30, 2021.
+1. **Park E**, Yip J, Kukke S, Caffery M, Johnson A, Huerta M, Amabile C, Wagman J. Effectiveness of cues intervention training for health care providers in US HIV clinic setting. National Conference on Health and Domestic Violence [Poster Presentation] Online. April 28-30, 2021.
 
 1. Carey S, Amabile C, Sumstine S, Helvink H, Sorin C, **Park E**, Wagman J. Similarities and differences in NCAA student athletes', coaches' and administrators' perspectives of campus-based sexual violence. National Conference on Health and Domestic Violence [Poster Presentation] Online. April 28-30, 2021.
 
 1. Sorin C, Amabile C, Carey S, Mahesh V, **Park E**, Sumstine S, Wagman J. Mandatory reporting at the University of California: An analysis of graduate student, staff, and faculty perspectives. National Conference on Health and Domestic Violence [Poster Presentation] Online. April 28-30, 2021.
 
-1. Bloom, B., **Park, E.**, Sumstine, S., Amabile, C., Oaks, L., Swendeman, D., Wagman, J.. Student-generated solutions to improve sexual violence response and prevention efforts on University of California campuses. APHA Annual Meeting and Expo. [Oral Presentation] Online. October 24-28, 2020.
+1. Bloom B, **Park E**, Sumstine S, Amabile C, Oaks L, Swendeman D, Wagman J. Student-generated solutions to improve sexual violence response and prevention efforts on University of California campuses. APHA Annual Meeting and Expo. [Oral Presentation] Online. October 24-28, 2020.
 
-1. Carey, S., Sumstine, S., Amabile, C., Helvik, H., Sorin, C., Swendeman, D., **Park E.**, Wagman, J. Student-athletes', coaches' and administrators' perspectives of sexual violence on three campuses with NCAA division I and II athletic programs. APHA Annual Meeting and Expo. [Oral Presentation] Online. October 24-28, 2020. 
+1. Carey S, Sumstine S, Amabile C, Helvik H, Sorin C, Swendeman D, **Park, E**, Wagman, J. Student-athletes', coaches' and administrators' perspectives of sexual violence on three campuses with NCAA division I and II athletic programs. APHA Annual Meeting and Expo. [Oral Presentation] Online. October 24-28, 2020. 
 
-1. Sumstine, S., Sade Murphy, A. S., Carey, S., Amabile, C., Bloom, B., **Park, E.**, Swendeman, D., Wagman, J. Using an intersectional lens to examine perceptions about campus sexual violence resources and reporting options at the University of California. APHA Annual Meeting and Expo. [Oral Presentation] Online. October 24-28, 2020.
+1. Sumstine S, Sade Murphy AS, Carey S, Amabile C, Bloom B, **Park E**, Swendeman D, Wagman J. Using an intersectional lens to examine perceptions about campus sexual violence resources and reporting options at the University of California. APHA Annual Meeting and Expo. [Oral Presentation] Online. October 24-28, 2020.
 
-1. **Park, E.** Identifying Gaps in Prenatal Syphilis Screening and Treatment in Kern County, CA. UCLA Maternal and Child Health Virtual Poster Symposium. [Oral Presentation] Online. September 10, 2020. 
+1. **Park E** Identifying Gaps in Prenatal Syphilis Screening and Treatment in Kern County, CA. UCLA Maternal and Child Health Virtual Poster Symposium. [Oral Presentation] Online. September 10, 2020. 
 
-1. **Park, E.**, Nalugoda, F., Nakyanjo, N., Nakigozi, G., Wagman, J. “Good masculinity” versus “Real masculinity” related to IPV: Qualitative findings from Rakai, Uganda. The Sexual Violence Research Institute Forum. [Oral Presentation] Cape Town, South Africa. October 21-25, 2019.
+1. **Park E**, Nalugoda F, Nakyanjo N, Nakigozi G, Wagman J. “Good masculinity” versus “Real masculinity” related to IPV: Qualitative findings from Rakai, Uganda. The Sexual Violence Research Institute Forum. [Oral Presentation] Cape Town, South Africa. October 21-25, 2019.
 
-1. Wagman, J., Fielding-Miller, R., **Park, E.**, Yap, M., Silverman, J., Oaks, L., Swendeman, D., Sumstine, S., Amabile, C., Smith, M. Student-led research to assess the climate for sexual and dating violence prevention at three University of California campuses. The Sexual Violence Research Institute Forum. [Oral Presentation] Cape Town, South Africa, October 21-25, 2019.
+1. Wagman J, Fielding-Miller R, **Park E**, Yap M, Silverman J, Oaks L, Swendeman D, Sumstine S, Amabile C, Smith M. Student-led research to assess the climate for sexual and dating violence prevention at three University of California campuses. The Sexual Violence Research Institute Forum. [Oral Presentation] Cape Town, South Africa, October 21-25, 2019.
 
-1. **Park, E.**, Bonnevie, E., Nabu, M.B., Mushi, J., Ntinda, M., Michau, L., Namy, S., Ghebrebrhan, N., Wagman, J. Adapting SASA! to prevent violence in rural Tanzania: Lessons learned form a mixed methods case study. RTI Ending Gender Inequalities Conference. [Poster Presentation] Johannesburg, South Africa. October 8-9, 2018.
+1. **Park E**, Bonnevie E, Nabu MB, Mushi J, Ntinda M, Michau L, Namy S, Ghebrebrhan N, Wagman J. Adapting SASA! to prevent violence in rural Tanzania: Lessons learned form a mixed methods case study. RTI Ending Gender Inequalities Conference. [Poster Presentation] Johannesburg, South Africa. October 8-9, 2018.
 
-1. Thrift, B., Siebert, S., **Park, E.**, Bonnevie, E., Paul, E., Elie, J.P., Michau, L., Ghebrebrhan, N., Namy, S., Wagman, J. “Haitianizing” SASA! to reduce violence against women and girls and HIV risk in a Caribbean community: A qualitative study from Jacmél, Haiti. RTI Ending Gender Inequalities Conference. [Poster Presentation] Johannesburg, South Africa. October 8-9, 2018.
+1. Thrift B, Siebert S, **Park E**, Bonnevie E, Paul E, Elie JP, Michau L, Ghebrebrhan N, Namy S, Wagman J. “Haitianizing” SASA! to reduce violence against women and girls and HIV risk in a Caribbean community: A qualitative study from Jacmél, Haiti. RTI Ending Gender Inequalities Conference. [Poster Presentation] Johannesburg, South Africa. October 8-9, 2018.
 
-1. Nicole, A., Stockman, J., Falvey, E., **Park, E.**, Thrift, B., Smith, L. Beyond HIV: A qualitative exploration of factors impacting women's engagement in HIV treatment. The San Diego Center for AIDS Research Annual HIV Research Day. [Oral Presentation] San Diego, CA, December 6, 2017
+1. Nicole A, Stockman J, Falvey E, **Park E**, Thrift B, Smith L. Beyond HIV: A qualitative exploration of factors impacting women's engagement in HIV treatment. The San Diego Center for AIDS Research Annual HIV Research Day. [Oral Presentation] San Diego, CA, December 6, 2017
 
-1. **Park, E.**, Okihiro, M. Assessing childhood obesity: Utilizing the “Electronic Health and Wellness Survey” during well-child visits at a community health center in rural Hawaii. American Public Health Association Annual Meeting & Exposition. [Poster Presentation] San Francisco, CA. October 27-31, 2012
+1. **Park E**, Okihiro M. Assessing childhood obesity: Utilizing the “Electronic Health and Wellness Survey” during well-child visits at a community health center in rural Hawaii. American Public Health Association Annual Meeting & Exposition. [Poster Presentation] San Francisco, CA. October 27-31, 2012
 
   
 **Reports and White Papers**
