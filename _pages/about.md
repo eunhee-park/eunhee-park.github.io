@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello? My name is Eunhee Park and I am a doctoral student in the Department of Community Health Sciences at the UCLA Fielding School of Public Health. 
+My name is Eunhee Park and I am a doctoral student in the Department of Community Health Sciences at the UCLA Fielding School of Public Health. 
 
 I received the Master of Public Health degree from University of Hawaii and Bachelor of Arts in Political Sciences and International Relations from Sookmyung Women’s University in Seoul, South Korea. My research focuses on intersection of gender iniquities, related violence, and women’s reproductive health. My current academic advisor Dr. Jennifer Wagman is an internationally recognized leader in the HIV and Intimate Partner Violence field. My research with Dr. Jennifer Wagman at UCLA focuses on the intersections of social determinants of health, gender based violence and STDs among Black and Hispanic women in California.
 
