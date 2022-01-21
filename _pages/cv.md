@@ -128,48 +128,48 @@ Abstracts and Presentations
   
 **Research Experience**
 ======
-#### 2021-present: Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19 (UCLA Racial and Social Justice Grant, UCLA Asian American Studies Center, Center for Institutional Courage)
+### 2021-present: Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19 (UCLA Racial and Social Justice Grant, UCLA Asian American Studies Center, Center for Institutional Courage)
 - Principal Investigator: Eunhee Park, UCLA Department of Community Health Sciences and Jianchao Lai, UCLA Department of Social Welfare
 - Duties: Study conceptualization and design, grant writing, leading the study team, data collection (in-depth interviews and qualitative data analysis, manuscript writing 
 
-#### 2018-present:	Assessing the Environment for Campus Violence Prevention in California (California Department of Public Health/Center for Disease Control and Prevention, Rape Prevention Education Grant)
+### 2018-present:	Assessing the Environment for Campus Violence Prevention in California (California Department of Public Health/Center for Disease Control and Prevention, Rape Prevention Education Grant)
 - Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Jay Silverman, UCSD Department of Medicine 
 - Duties: Grant writing, project and IRB management, qualitative data collection and analysis using Dedoose software, report preparation, manuscript writing 
 
-#### 2017-2018:	Addressing the Rise of Congenital Syphilis: Working toward Setting-specific Solutions among High-Risk Pregnant Women in Kern County, CA and East Baton Rouge Parish, LA (March of Dimes/Center for Disease Control and Prevention)
+### 2017-2018:	Addressing the Rise of Congenital Syphilis: Working toward Setting-specific Solutions among High-Risk Pregnant Women in Kern County, CA and East Baton Rouge Parish, LA (March of Dimes/Center for Disease Control and Prevention)
 - Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Emily Harville, Tulane University Department of Epidemiology
 - Duties: Grant writing, project and IRB management, qualitative data collection and analysis using Nvivo software, report preparation, manuscript writing 
 
-#### 2016-2017:	Strengthening SASA! Implementation through Learning and Guidance (United Nations Trust Fund/Raising Voices)	
+### 2016-2017:	Strengthening SASA! Implementation through Learning and Guidance (United Nations Trust Fund/Raising Voices)	
 - Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences 
 - Duties: Project and IRB management, qualitative data collection and analysis using Nvivo software, report preparation, manuscript writing 
   
-#### 2016-2017:	Designing a Gender-Transformative Intervention to Involve Men in Prevention of IPV in Rural Uganda (World Bank/Sexual Violence Research Initiative) </dt>
+### 2016-2017:	Designing a Gender-Transformative Intervention to Involve Men in Prevention of IPV in Rural Uganda (World Bank/Sexual Violence Research Initiative) </dt>
 - Prncipal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Emily Harville, Tulane University Department of Epidemiology
 - Duties: IRB management, qualitative data analysis using Nvivo software, report preparation, manuscript writing 
   
 **Work Experience**
 ======
 
-#### 2019-present: Graduate Student Research at the Department of Community Health Sciences
+### 2019-present: Graduate Student Research at the Department of Community Health Sciences
 - University of California Los Angeles School of Public Health, Los Angeles, CA, USA
 
-#### 2017-2019: Research Program Manager at the Center on Gender Equity and Health
+### 2017-2019: Research Program Manager at the Center on Gender Equity and Health
 - University of California San Diego School of Medicine, La Jolla, CA, USA
 
-#### 2015-2017: Research Project Coordinator at the Division of Infectious Diseases and Global Public Health
+### 2015-2017: Research Project Coordinator at the Division of Infectious Diseases and Global Public Health
 - University of California San Diego School of Medicine, La Jolla, CA, USA
 
-#### 2013-2015: Staff Researcher at the JWLEE Center for Global Medicine
+### 2013-2015: Staff Researcher at the JWLEE Center for Global Medicine
 - College of Medicine, Seoul National University, Seoul, South Korea
 
-#### 2011-2012: Graduate Research Assistant at the Department of Urban and Regional Planning
+### 2011-2012: Graduate Research Assistant at the Department of Urban and Regional Planning
 - University of Hawaii at Manoa, Honolulu, HI, USA
 
-#### 2007-2008: Program Coordinator at the Executive Master of Law Program 
+### 2007-2008: Program Coordinator at the Executive Master of Law Program 
 - Korean Advanced Institute of Science and Technology, Seoul, South Korea 
 
-#### 2006-2007: Development Instructor
+### 2006-2007: Development Instructor
 - Humana People to People, Lusaka, Zambia 
 
 
@@ -180,14 +180,14 @@ Abstracts and Presentations
 Teaching
 ======
 
-#### 2013:			Teaching Assistant
+### 2013:			Teaching Assistant
 - Course: Public Health Policy – Implementation on Appropriate Medical Technologies in resource-limited settings 
 - College of Medicine, Seoul National University, Seoul, South Korea
   
-#### 2009-2010:		English Teacher
+### 2009-2010:		English Teacher
 - JC English Academy, Hwa-Sung, South Korea
 
-#### 2008-2009:		Korean Language Instructor
+### 2008-2009:		Korean Language Instructor
 - Course: one-on-one tutoring for students in a Bachelor of Arts degree in Korean 
 - Department of East Asian Languages and Literatures
 - Korean Language Flagship Center, University of Hawaii at Manoa, Honolulu, HI, USA
