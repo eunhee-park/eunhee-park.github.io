@@ -42,11 +42,11 @@ Contribution to Science
 
 - (5) Park E, Stockman JK, Thrift B, Nicole A, Smith LR. Structural Barriers to Women's Sustained Engagement in HIV Care in Southern California. AIDS Behav. 2020
 Oct;24(10):2966-2974. doi: 10.1007/s10461-020-02847-9. PMID: 32323105; PMCID: PMC7790164. 
-- (6)  Park E*, Wolfe SJ*, Nalugoda F, et al. Examining Masculinities to Inform Gender-Transformative Violence Prevention Programs: Qualitative Findings From
+- (6)  Park E^, Wolfe SJ^, Nalugoda F, et al. Examining Masculinities to Inform Gender-Transformative Violence Prevention Programs: Qualitative Findings From
 Rakai, Uganda. Global Health: Science and Practice. 2022. doi.org/10.9745/GHSP-D-21-00137 
-<br>**Co-first authors*
-- (7) Bloom BE*, Park E*, Swendeman D, et al. Opening the “Black Box”: Student-Generated Solutions to Improve Sexual Violence Response and Prevention  Efforts for Undergraduates  on College Campuses. Violence Against Women. January 2022. doi:10.1177/10778012211068063
-<br>**Co-first authors*
+<br>*^Co-first authors*
+- (7) Bloom BE^, Park E^, Swendeman D, et al. Opening the “Black Box”: Student-Generated Solutions to Improve Sexual Violence Response and Prevention  Efforts for Undergraduates  on College Campuses. Violence Against Women. January 2022. doi:10.1177/10778012211068063
+<br>*^Co-first authors*
 - (8) Park E, Yip J, Harville E, Nelson M, Giarratano G, Buekens P, Wagman J. Qualitative Assessment on the Rise of Congenital Syphilis in California: Identifying Gaps in Preventing Congenital Syphzilis. BMC Infectious Disease. 2022. 
 - (9) Chan EYL, Smullin C, Clavijo S, Papp-Green M, Park E, et al. A qualitative assessment of structural barriers to prenatal care and congenital syphilis prevention in Kern County, California. PLOS ONE. 2021;16(4): e0249419. 
 
