@@ -132,11 +132,12 @@ Abstracts and Presentations
   
 **Research Experience**
 ======
-### 2021-present: Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19 (UCLA Racial and Social Justice Grant, UCLA Asian American Studies Center, Center for Institutional Courage)
-- Principal Investigator: Eunhee Park, UCLA Department of Community Health Sciences and Jianchao Lai, UCLA Department of Social Welfare
-- Duties: Study conceptualization and design, grant writing, leading the study team, data collection (in-depth interviews and qualitative data analysis, manuscript writing 
+### 2021-present: Double Jeopardy: AAPI Students’ Experiences of Sexual Violence and Xenophobia during COVID-19 (AAPI Data, UCLA Racial and Social Justice Grant, UCLA Asian American Studies Center, Center for Institutional Courage)
+- Principal Investigators: Eunhee Park, UCLA Department of Community Health Sciences and Jianchao Lai, UCLA Department of Social Welfare
+- Faculty Sponsor: Jennifer Wagman, UCLA Department of Community Health Sciences 
+- Duties: Study conceptualization and design, grant writing, leading the study team, mixed method data collection and management, manuscript writing 
 
-### 2018-present:	Assessing the Environment for Campus Violence Prevention in California (California Department of Public Health/Center for Disease Control and Prevention, Rape Prevention Education Grant)
+### 2018-2021:	Assessing the Environment for Campus Violence Prevention in California (California Department of Public Health/Center for Disease Control and Prevention, Rape Prevention Education Grant)
 - Principal Investigator: Jennifer Wagman, UCLA Department of Community Health Sciences and Jay Silverman, UCSD Department of Medicine 
 - Duties: Grant writing, project and IRB management, qualitative data collection and analysis using Dedoose software, report preparation, manuscript writing 
 
@@ -218,11 +219,22 @@ Teaching
 <br> 2011:		Epidemiology and Population Health Summer Institute, Mailman School of Public Health, Columbia University, New York, NY
 <br> 2008:		Asia Pacific Leadership Program, East West Center, Honolulu, HI
 </p>
-  
-**Honors and Awards**
+
+**Research Grants**
 ======
 <p>
 <br> 2023: Kirschstein National Research Service Award Individual Predoctoral Fellowship (F31), National Institute of Drug Abuse, National Institute of Health, Bethesda, MD
+<br> 2023: Grants to assess the needs of California’s Asian American and Pacific Islander populations, AAPI Data, UC Riverside, Riverside, CA
+<br> 2023: Grants to assess the needs of California’s Asian American and Pacific Islander populations, AAPI Data, UC Riverside, Riverside, CA
+<br> 2021: Racial and Social Justice Grant, UCLA
+<br> 2021: Martha Ogata Grant to study Domestic Violence and Abuse in Asian Pacific American Communities, Asian American Studies Center, UCLA
+<br> 2021: Patrick and Lily Okura Research Grant on Asian Pacific American Mental Health, Asian American Studies Center, UCLA
+<br> 2021: Institutional Courage Grant, Center for Institutional Courage, Eugene, OR
+</p>
+
+**Honors and Awards**
+======
+<p>
 <br> 2023: Summer Fellowship, UCLA Center for the Study of Women & Barbra Streisand Center, Los Angeles, CA
 <br> 2022: Rose Eng Chin & Helen Wong Eng Fellowship, UCLA Asian American Studies Center, Los Angeles, CA
 <br> 2021-2022:	Maternal and Child Health (MCH) Training Program Epidemiology Predoctoral Fellowship, UCLA MCH Center of Excellence in the Geffen School of Medicine, Los Angelels, CA
