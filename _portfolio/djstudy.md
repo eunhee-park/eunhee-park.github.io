@@ -17,9 +17,13 @@ We assess types of SVSH and gendered microaggressions against AAPI women, and me
 
 We also examine changes after COVID-19 pandemic. Our research methods are informed by intersectional, community engaged frameworks guided by trauma-informed practices and survivor-centered principles.
 
-<br> Click [HERE](https://laist.com/news/education/campus-anti-asian-hate) for midea coverage.
+<br> Click [HERE](https://laist.com/news/education/campus-anti-asian-hate) for LAist article.
 
 _“How — And Why — Academic Researchers Are Taking On Anti-Asian Hate.” By Adolfo Guzman-Lopez, LAist & Southern California Public Radio (SCPR), May 3, 2021._ 
+
+<br> Click [HERE]([https://laist.com/news/education/campus-anti-asian-hate](https://www.ucghi.universityofcalifornia.edu/news/power-of-research-create-dialogue-about-aapi-womens-experiences-sexual-violence) for UCGHI article.
+
+_“The Power of Research to Create Dialogue About AAPI Women’s Experiences with Sexual Violence.” By Elizabeth Doerr, UC Global Health Institute, May 2, 2023._ 
 
 Click the project [website](https://www.doublejeopardystudy.org/)
 
