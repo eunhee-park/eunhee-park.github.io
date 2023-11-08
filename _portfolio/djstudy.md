@@ -25,9 +25,9 @@ _“How — And Why — Academic Researchers Are Taking On Anti-Asian Hate.” B
 
 _“The Power of Research to Create Dialogue About AAPI Women’s Experiences with Sexual Violence.” By Elizabeth Doerr, UC Global Health Institute, May 2, 2023._ 
 
-Click for the project [website](https://www.doublejeopardystudy.org/)
+Click for the project [website](https://www.doublejeopardystudy.org/) to learn more about the study.
 
-This study is part of [UC Speaks Up](http://www.ucspeaksup.org)
+This study is part of [UC Speaks Up](http://www.ucspeaksup.org) initiative.
 
 <br>
 <div style="text-align:center;">
