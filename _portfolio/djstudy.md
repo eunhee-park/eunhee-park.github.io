@@ -30,8 +30,10 @@ Click for the project [website](https://www.doublejeopardystudy.org/)
 This study is part of [UC Speaks Up](http://www.ucspeaksup.org)
 
 <div style="text-align:center;">
-  <img src="images/Double Jeopardy Exhibtion  Panel-101.jpg" alt="Exhibition during SAAM 2023" style="width:100px; margin:10px;">
-  <img src="images/Double Jeopardy Exhibtion Panel-109.jpg" alt="Exhibition during SAAM 2023" style="width:100px; margin:10px;">
-  <img src="images/Double Jeopardy Exhibtion  Panel-201.jpg" alt="Exhibition during SAAM 2023" style="width:100px; margin:10px;">
+  <img src="https://github.com/eunhee-park/eunhee-park.github.io/blob/4aabec63ea4dce6fc7935d28e7056d9ce87c5ce3/images/Double%20Jeopardy%20Exhibtion%20%20Panel-101.jpg" alt="Exhibition during SAAM 2023" style="width:100px; margin:10px;">
+  <img src="https://github.com/eunhee-park/eunhee-park.github.io/blob/4aabec63ea4dce6fc7935d28e7056d9ce87c5ce3/images/Double%20Jeopardy%20Exhibtion%20%20Panel-109.jpg" alt="Exhibition during SAAM 2023" style="width:100px; margin:10px;">
+  <img src="https://github.com/eunhee-park/eunhee-park.github.io/blob/4aabec63ea4dce6fc7935d28e7056d9ce87c5ce3/images/Double%20Jeopardy%20Exhibtion%20%20Panel-201.jpg" alt="Exhibition during SAAM 2023" style="width:100px; margin:10px;">
 </div>
 
+
+https://github.com/eunhee-park/eunhee-park.github.io/blob/4aabec63ea4dce6fc7935d28e7056d9ce87c5ce3/images/Double%20Jeopardy%20Exhibtion%20%20Panel-101.jpg
