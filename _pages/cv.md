@@ -123,11 +123,11 @@ Abstracts and Presentations
 **Talks**
 ======
 
-1. 2023 "Prevalence of Sexual Violence on College Campuses and Student Resources," Pacific Ridge School, Carlsbad, CA, Morning Assembly, March 22, 2023
+1. 2023 "Prevalence of Sexual Violence on College Campuses and Student Resources," Pacific Ridge School, Carlsbad, CA, March 22, 2023
 
 1. 2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” University of California Global Health Institute, Women’s Health, Gender, and Empowerment Center for Expertise, Annual Retreat, Online, May 14, 2021 
 
-1. 2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” Generation Flow Reproductive Symposium, University of California San Francisco, Online. April 11, 2021
+1. 2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” Generation Flow Reproductive Symposium, University of California San Francisco, Online, April 11, 2021
   
   
 **Research Experience**
@@ -225,10 +225,9 @@ Teaching
 <p>
 <br> 2023: Kirschstein National Research Service Award Individual Predoctoral Fellowship (F31), National Institute of Drug Abuse, National Institute of Health, Bethesda, MD
 <br> 2023: Grants to assess the needs of California’s Asian American and Pacific Islander populations, AAPI Data, UC Riverside, Riverside, CA
-<br> 2023: Grants to assess the needs of California’s Asian American and Pacific Islander populations, AAPI Data, UC Riverside, Riverside, CA
-<br> 2021: Racial and Social Justice Grant, UCLA
-<br> 2021: Martha Ogata Grant to study Domestic Violence and Abuse in Asian Pacific American Communities, Asian American Studies Center, UCLA
-<br> 2021: Patrick and Lily Okura Research Grant on Asian Pacific American Mental Health, Asian American Studies Center, UCLA
+<br> 2021: Racial and Social Justice Grant, UCLA, Los Angeles, CA
+<br> 2021: Martha Ogata Grant to study Domestic Violence and Abuse in Asian Pacific American Communities, Asian American Studies Center, UCLA, Los Angeles, CA
+<br> 2021: Patrick and Lily Okura Research Grant on Asian Pacific American Mental Health, Asian American Studies Center, UCLA, Los Angeles, CA
 <br> 2021: Institutional Courage Grant, Center for Institutional Courage, Eugene, OR
 </p>
 
