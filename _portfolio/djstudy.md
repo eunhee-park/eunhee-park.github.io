@@ -32,13 +32,13 @@ This study is part of [UC Speaks Up](http://www.ucspeaksup.org)
 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="path_to_your_image1.jpg" class="d-block w-100" alt="...">
+      <img src="images/Double Jeopardy Exhibtion  Panel-101.jpg" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="path_to_your_image2.jpg" class="d-block w-100" alt="...">
+      <img src="images/Double Jeopardy Exhibtion  Panel-109.jpg" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="path_to_your_image3.jpg" class="d-block w-100" alt="...">
+      <img src="images/Double Jeopardy Exhibtion  Panel-201.jpg" class="d-block w-100" alt="...">
     </div>
     <!-- ... add more items here -->
   </div>
