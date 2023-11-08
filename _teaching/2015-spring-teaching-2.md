@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Community Health Sciences"
+permalink: /teaching/2021 Fall
+venue: "UCLA, Department of Community Health Sciences"
+date: 2021-10-01
+location: "Los Angeles, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course is intended for entering students in the Department of Community Health Sciences. It aims to provide students, who come from a very wide range of academic and professional backgrounds, with a core of conceptual tools necessary for understanding relationships, problems, and policy alternatives in the field of community health.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
