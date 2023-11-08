@@ -55,6 +55,4 @@ Rakai, Uganda. Global Health: Science and Practice. 2022. doi.org/10.9745/GHSP-D
 - (9) Chan EYL, Smullin C, Clavijo S, Papp-Green M, Park E, et al. A qualitative assessment of structural barriers to prenatal care and congenital syphilis prevention in Kern County, California. PLOS ONE. 2021;16(4): e0249419. 
 
 
-Complete List of Published Work in <a href="https://www.ncbi.nlm.nih.gov/myncbi/1n9UkwM-rzoUVO/bibliography/public">Eunhee Park's NCBI Library</a>  
-
 <P align=right> Updated on November 7, 2023 </P> 
