@@ -6,7 +6,8 @@ it is likely that the occurrence of sexual violence against Asians has increased
 Our study aims to understand the links between sexual violence, anti-Asian racism, mental health, and help seeking behaviors among AAPI college students."
 collection: portfolio
 ---
-## Double Jeopardy: AAPI Students’ Experiences of Sexual Violence and Xenophobia during COVID-19
+
+### Double Jeopardy: AAPI Students’ Experiences of Sexual Violence and Xenophobia during COVID-19
 
 The Double Jeopardy Study examines intersections of sexual violence and sexual harassment (SVSH), and anti-Asian racism and discrimination (in both covert and overt forms) that University of California (UC) students from Asian, Native Hawaiian, and Pacific Islander (ANHPI) communities have experienced.
 
