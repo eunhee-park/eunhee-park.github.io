@@ -78,12 +78,10 @@ Department of Community Health Sciences
 Abstracts and Presentations
 ======  
 1. **Park E**, Lai, J, Wagman JA. Double Jeopardy: East Asian International Students’ Experiences of Sexual Violence and Sexual Harassment and Xenophobia during COVID-19. 19th Hawaii International Summit on Preventing, Assessing, & Treating Trauma Across the Lifespan [Oral Presentation] Honolulu, HI, March 28 – April 1, 2022.
-<br>Presenter
 
 1. **Park E**, Yip J, Kukke S, Caffery M, Johnson A, Huerta M, Amabile C, Wagman J. Effectiveness of cues intervention training for health care providers in US HIV clinic setting. National Conference on Health and Domestic Violence [Poster Presentation] Online. April 28-30, 2021.
 
 1. Carey S, Amabile C, Sumstine S, Helvink H, Sorin C, **Park E**, Wagman J. Similarities and differences in NCAA student athletes', coaches' and administrators' perspectives of campus-based sexual violence. National Conference on Health and Domestic Violence [Oral Presentation] Online. April 28-30, 2021.
-<br>Presenter
    
 1. Sorin C, Amabile C, Carey S, Mahesh V, **Park E**, Sumstine S, Wagman J. Mandatory reporting at the University of California: An analysis of graduate student, staff, and faculty perspectives. National Conference on Health and Domestic Violence [Poster Presentation] Online. April 28-30, 2021.
 
