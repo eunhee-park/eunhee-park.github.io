@@ -37,6 +37,5 @@ This study is part of [UC Speaks Up](http://www.ucspeaksup.org) initiative.
   <img src='/images/Double Jeopardy Exhibtion  Panel-226.jpg' alt="Exhibition during SAAM 2023" style="width:300px; margin:10px;">
   <img src='/images/Double Jeopardy Exhibtion  Panel-29.jpg' alt="Exhibition during SAAM 2023" style="width:300px; margin:10px;">
   <img src='/images/Double Jeopardy Exhibtion  Panel-18.jpg' alt="Exhibition during SAAM 2023" style="width:300px; margin:10px;">
-  <img src='/images/djintro.jpg' alt="Exhibition during SAAM 2023" style="width:450px; margin:1px;">
-  <img src='/images/dj2.jpg' alt="Exhibition during SAAM 2023" style="width:450px; margin:1px;">
+  <img src='/images/djintro.jpg' alt="Exhibition during SAAM 2023" style="width:700px; margin:10px;">
 </div>
