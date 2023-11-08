@@ -1,7 +1,7 @@
 ---
 title: "Teaching philosophy"
 collection: teaching
-type: "Teaching Philosophy"
+type: "Teaching philosophy"
 permalink: /teaching/philosophy
 venue: "UCLA, Department of Community Health Sciences"
 date: 2022-2023
