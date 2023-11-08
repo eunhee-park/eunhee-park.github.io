@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-My name is Eunhee Park and I am a doctoral student in the Department of Community Health Sciences at the University of California, Los Angeles (UCLA) Fielding School of Public Health. I am minoring in Epidemiology and an Epidemiology fellow at the UCLA Center of Excellence in Maternal & Child Health (MCH) funded by Health Resources and Services Administration (HRSA).
+My name is Eunhee Park and I am a doctoral student in the Department of Community Health Sciences at the University of California, Los Angeles (UCLA) Fielding School of Public Health.
 
-I received the Master of Public Health (MPH) degree from University of Hawaii at Manoa and Bachelor of Arts (BA) in Political Sciences and International Relations from Sookmyung Women’s University in Seoul, South Korea. I am aspired to promote gender equity and improve women, infants, children, and their family’s health through my research in public health. My research interests center around gender iniquities, related violence, social determinants of health, HIV/STDs, and MCH. I am interested in methods and programs to facilitate the uptake of evidence-based practices that prevent diseases and injuries and reduce harms.   
+I promote gender equity and improve sexual and reproductive health by examining the impact of social determinants of health. My research interests center around violence based on gender and race, sexual and reproductive health, and social determinants of health. I am interested in mixed-methods research to inform the uptake of evidence-based practices that prevent diseases and injuries and reduce harms.   
 
-Currently, I am leading the Double Jeopardy study as a co-principal investigator to examine Asian college students' exposure to sexual violence, xenophobia, institutional support, and physical/mental health during COVID-19 in California, U.S. For my doctoral dissertation research, I collaborate with epidemiologists at the Division of HIV and STD programs in the Los Angeles Department of Public Health to address the congenital syphilis epidemic in the region.  
+Currently, I am leading the Double Jeopardy study as a co-principal investigator to examine Asian American and Pacific Islander (AAPI) college students' exposure to sexual violence, xenophobia, institutional support, and physical/mental health during COVID-19 in California, U.S. 
+
+For my doctoral dissertation research, I collaborate with epidemiologists at the Division of HIV and STD programs in the Los Angeles Department of Public Health to address the congenital syphilis epidemic in the region.  
+
+I received the Master of Public Health (M.P.H) degree from University of Hawaii at Manoa and Bachelor of Arts (BA) in Political Sciences and International Relations from Sookmyung Women’s University in Seoul, South Korea. 
 
 - Areas of interest: community health; social epidemiology; qualitative research; population-based research; research ethics; intimate partner violence; campus-based sexual assault and dating violence; HIV/AIDS; congenital syphilis; alcohol and substance use; global health; Sub-Saharan Africa; sexual and reproductive health and rights; maternal and child health.
 
@@ -53,4 +57,4 @@ Rakai, Uganda. Global Health: Science and Practice. 2022. doi.org/10.9745/GHSP-D
 
 Complete List of Published Work in <a href="https://www.ncbi.nlm.nih.gov/myncbi/1n9UkwM-rzoUVO/bibliography/public">Eunhee Park's NCBI Library</a>  
 
-<P align=right> Updated on January 20, 2022 </P> 
+<P align=right> Updated on November 7, 2023 </P> 
