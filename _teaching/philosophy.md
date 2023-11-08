@@ -1,13 +1,13 @@
 ---
 title: "Teaching philosophy"
 collection: teaching
-type: "Graduate course"
+type: "Teaching Philosophy"
 permalink: /teaching/philosophy
 venue: "UCLA, Department of Community Health Sciences"
 date: 2022-2023
 location: "Los Angeles, CA"
 ---
-I applied this idea while a graduate student instructor for foundational courses (e.g., Community Health Sciences, Program Planning, Research, and Evaluation in Community Health Sciences) in the Master of Public Health program to the 1st year graduate students between 2021 and 2023. The Best Teaching Assistant Award is a testament to my dedication, effectiveness, and excellence in teaching and optimizing the learning experiences for students. I have consistently received positive feedback from both students and faculty for my ability to clarify complex concepts.
+I taught in discussion sections for foundational courses (e.g., Community Health Sciences, Program Planning, Research, and Evaluation in Community Health Sciences) in the Master of Public Health program for the 1st year graduate students between 2021 and 2023. The Best Teaching Assistant Award is a testament to my dedication, effectiveness, and excellence in teaching and optimizing the learning experiences for students. 
 
 
 Teaching Philosophy
