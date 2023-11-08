@@ -35,5 +35,3 @@ This study is part of [UC Speaks Up](http://www.ucspeaksup.org)
   <img src='/images/Double Jeopardy Exhibtion  Panel-109.jpg' alt="Exhibition during SAAM 2023" style="width:100px; margin:10px;">
   <img src='/images/Double Jeopardy Exhibtion  Panel-201.jpg' alt="Exhibition during SAAM 2023" style="width:100px; margin:10px;">
 </div>
-
-<br/><img src='/images/datamotherhood.png'>
