@@ -16,8 +16,6 @@ Currently, I am leading the Double Jeopardy study as a co-principal investigator
 
 For my doctoral dissertation research, I collaborate with epidemiologists at the Division of HIV and STD programs in the Los Angeles Department of Public Health to address the congenital syphilis epidemic in the region.  
 
-I received the Master of Public Health (M.P.H) degree from University of Hawaii at Manoa and Bachelor of Arts (BA) in Political Sciences and International Relations from Sookmyung Women’s University in Seoul, South Korea. 
-
 - Areas of interest: community health; social epidemiology; qualitative research; population-based research; research ethics; intimate partner violence; campus-based sexual assault and dating violence; HIV/AIDS; congenital syphilis; alcohol and substance use; global health; Sub-Saharan Africa; sexual and reproductive health and rights; maternal and child health.
 
 
