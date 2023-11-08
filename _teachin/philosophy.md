@@ -2,7 +2,7 @@
 title: "Teaching philosophy"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2022-2023
+permalink: /teaching/philosophy
 venue: "UCLA, Department of Community Health Sciences"
 date: 2022-2023
 location: "Los Angeles, CA"
@@ -22,9 +22,9 @@ As students and professionals become absorbed in the methodology, terminology an
 Teaching Interest
 ======
 I have a broad set of teaching interest and am willing to teach courses than extend beyond my core research focus on violence, substance use, and sexually transmitted diseases and HIV. Below is a sample of the courses that I am interested in teaching:
-> Community Health Sciences
-> Global Health
-> Needs Assessment and Program Evaluation
-> Immigrant Health
-> Qualitative Research Methodology
-> Gender-Based Violence
+* Community Health Sciences
+* Global Health
+* Needs Assessment and Program Evaluation
+* Immigrant Health
+* Qualitative Research Methodology
+* Gender-Based Violence
