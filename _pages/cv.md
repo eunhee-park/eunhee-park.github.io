@@ -25,7 +25,6 @@ Department of Community Health Sciences
 ======
 
 * Ph.D. in Community Health Sciences, Fielding School of Public Health
-<br>Minor: Epidemiology
 <br>University of California Los Angeles, Los Angeles, CA
 
 * M.P.H. in Social and Behavioral Sciences, 2012
@@ -38,9 +37,9 @@ Department of Community Health Sciences
 
 **Research Interests**
 ======
-* Violence Against Women	
+* Sexual and Reproductive Health
+* Violece based on Gender and Race
 * Maternal and Child Health		
-* Sexual Health	
 * Sexually Transmitted Diseases	
 * Social Determinants of Health		
 * Immigrant Health
@@ -50,7 +49,15 @@ Department of Community Health Sciences
 
 **Publications**
 ======
-  
+
+1. Wagman JA, **Park E**, Giarratano GP, Buekens PM, Harville EW. Understanding perinatal patient's health preferences and patient-provider relationships to prevent congenital syphilis in California and Louisiana. BMC Pregnancy Childbirth. 2022;22(1):555. 
+
+1. **Park E**, Yip J, Harville E, Nelson M, Giarratano G, Buekens P, Wagman J. Qualitative Assessment on the Rise of Congenital Syphilis in California: Identifying Gaps in Preventing Congenital Syphilis. BMC Infect Dis. 2022;22(1):129. doi:10.1186/s12879-022-07100-3
+
+1. Wagman JA, Amabile C, Sumstine S, **Park E**, Boyce S, Silverman J, Fielding-Miller R, Oaks L, Swendeman D. Student, Staff, and Faculty Perspectives on Intimate Partner and Sexual Violence on 3 Public University Campuses: Protocol for the UC Speaks Up Study and Preliminary Results. JMIR Res Protoc. 2022;11(4):e31189. doi:10.2196/31189
+
+1. Carey DS, Sumstine S, Amabile C, Helvink H, Sorin CR, Swendeman D, **Park E**, Wagman J. Student-Athletes', Coaches', and Administrators' Perspectives of Sexual Violence Prevention on Three Campuses with National Collegiate Athletic Association Division I and II Athletic Programs. Interpers Violence. 2022;8862605211067018. doi:10.1177/08862605211067018. 
+
 1. **Park E^**, Wolfe SJ^, Nalugoda F, et al. Examining Masculinities to Inform Gender-Transformative Violence Prevention Programs: Qualitative Findings From Rakai, Uganda. Global Health: Science and Practice. 2022. doi.org/10.9745/GHSP-D-21-00137
 <br>^co-first authors
 
@@ -68,23 +75,16 @@ Department of Community Health Sciences
 1. Alley AB, **Park E**, Lee JK, Kang M, Oh J. Republic of Korea's Health Aid Governance: Perspectives from Partner Countries. Journal of Korean medical science. 2015; 30 Suppl 2:S149-54. PMCID: PMC4659868
 
 
-*In press*:
-
-1. Carey S, Sumstine S, Amabile C, Helvink H, Sorin C, Swendeman D, **Park E**, Wagman J. Student-Athletes', Coaches' and Administrators' Perspectives of Sexual Violence Prevention on Three Campuses with NCAA Division I and II Athletic Programs (Journal of Interpersonal Violence)
-
-1. **Park E**, Yip J, Harville E, Nelson M, Giarratano G, Buekens P, Wagman J. Qualitative Assessment on the Rise of Congenital Syphilis in California: Identifying Gaps in Preventing Congenital Syphilis. (BMC Infectious Diseases)
-
-1. Wagman JA, Amabile C, Sumstine S, **Park E**, Boyce S, Silverman J, Fielding-Miller R, Oaks L, Swendeman D. Student, Staff and Faculty Perspectives of Intimate Partner and Sexual Violence on Three Public University Campuses: The UC Speaks Up Protocol (Journal of Medical Internet Research)
-
-
 Abstracts and Presentations
 ======  
 1. **Park E**, Lai, J, Wagman JA. Double Jeopardy: East Asian International Students’ Experiences of Sexual Violence and Sexual Harassment and Xenophobia during COVID-19. 19th Hawaii International Summit on Preventing, Assessing, & Treating Trauma Across the Lifespan [Oral Presentation] Honolulu, HI, March 28 – April 1, 2022.
+<br>Presenter
 
 1. **Park E**, Yip J, Kukke S, Caffery M, Johnson A, Huerta M, Amabile C, Wagman J. Effectiveness of cues intervention training for health care providers in US HIV clinic setting. National Conference on Health and Domestic Violence [Poster Presentation] Online. April 28-30, 2021.
 
-1. Carey S, Amabile C, Sumstine S, Helvink H, Sorin C, **Park E**, Wagman J. Similarities and differences in NCAA student athletes', coaches' and administrators' perspectives of campus-based sexual violence. National Conference on Health and Domestic Violence [Poster Presentation] Online. April 28-30, 2021.
-
+1. Carey S, Amabile C, Sumstine S, Helvink H, Sorin C, **Park E**, Wagman J. Similarities and differences in NCAA student athletes', coaches' and administrators' perspectives of campus-based sexual violence. National Conference on Health and Domestic Violence [Oral Presentation] Online. April 28-30, 2021.
+<br>Presenter
+   
 1. Sorin C, Amabile C, Carey S, Mahesh V, **Park E**, Sumstine S, Wagman J. Mandatory reporting at the University of California: An analysis of graduate student, staff, and faculty perspectives. National Conference on Health and Domestic Violence [Poster Presentation] Online. April 28-30, 2021.
 
 1. Bloom B, **Park E**, Sumstine S, Amabile C, Oaks L, Swendeman D, Wagman J. Student-generated solutions to improve sexual violence response and prevention efforts on University of California campuses. APHA Annual Meeting and Expo. [Oral Presentation] Online. October 24-28, 2020.
@@ -110,7 +110,7 @@ Abstracts and Presentations
   
 **Reports and White Papers**
 ======  
-  
+
 1. Amabile C, Tran D, **Park E**, Chalmiers M, Raj A, Wagman J. (2019) College Students. Sexual Violence Research in the #MeToo Era: Findings from a Systematic Review of the Literature Published from January 2015 to March 2019. A Report to the California Coalition Against Sexual Assault. Center on Gender Equity and Health, University of California San Diego. La Jolla. CA.
 
 1. Wagman JA, **Park E**, Siebert S, Paul E, Elie JP. (2018) Jacmel, Haiti Case Study: Learning from SASA! Adaptations in a Caribbean setting. Published by Center on Gender Equity and Health at University of California San Diego, Beyond Borders, and Raising Voices, Kampala, Uganda.
@@ -122,7 +122,9 @@ Abstracts and Presentations
 
 **Talks**
 ======
-  
+
+1. 2023 "Prevalence of Sexual Violence on College Campuses and Student Resources," Pacific Ridge School, Carlsbad, CA, Morning Assembly, March 22, 2023
+
 1. 2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” University of California Global Health Institute, Women’s Health, Gender, and Empowerment Center for Expertise, Annual Retreat, Online, May 14, 2021 
 
 1. 2021	“Double Jeopardy: Asian International Students’ Experiences of Sexual Violence and Xenophobia during COVID-19,” Generation Flow Reproductive Symposium, University of California San Francisco, Online. April 11, 2021
@@ -177,10 +179,20 @@ Abstracts and Presentations
 
 **Interview/Press/Media Coverage**
 ======
-“How — And Why — Academic Researchers Are Taking On Anti-Asian Hate.” By Adolfo Guzman-Lopez, LAist & Southern California Public Radio (SCPR), May 3, 2021. Available at: https://laist.com/news/education/campus-anti-asian-hate 
+The Power of Research to Create Dialogue About AAPI Women’s Experiences with Sexual Violence. By Elizabeth Doerr, University of California Global Health Institute Newsletter, May 3, 2023. Available at (https://ucghi.universityofcalifornia.edu/news/power-of-research-create-dialogue-about-aapi-womens-experiences-sexual-violence) 
+
+“How — And Why — Academic Researchers Are Taking On Anti-Asian Hate.” By Adolfo Guzman-Lopez, LAist & Southern California Public Radio (SCPR), May 3, 2021. Available at (https://laist.com/news/education/campus-anti-asian-hate) 
   
 Teaching
 ======
+
+### 2023-2024:  Teaching Associate
+- Courses: Introduction to Community Health Sciences (COM HLT 210)
+- School of Public Health, UCLA, Los Angeles, CA
+
+### 2022-2023:  Teaching Assistant
+- Courses: Introduction to Community Health Sciences (COM HLT 210), Program Planning, Research, and Evaluation in Community Health Sciences (COM HLT 211 A & B)
+- School of Public Health, UCLA, Los Angeles, CA
 
 ### 2013:			Teaching Assistant
 - Course: Public Health Policy – Implementation on Appropriate Medical Technologies in resource-limited settings 
@@ -197,7 +209,9 @@ Teaching
 
 **Training**
 ======
-<p> 2021:		  Domestic Violence & Sexual Assault Victim Advocate Training, Center for the Pacific Asian Family, Los Angeles, CA
+<p> 
+<br> 2023:    Frontiers in Addiction Research and Pregnancy Program, Magee-Womens Institute, San Diego, CA
+<br> 2021:		Domestic Violence & Sexual Assault Victim Advocate Training, Center for the Pacific Asian Family, Los Angeles, CA
 <br> 2021:    Research Transparency and Reproducibility Training, Berkeley Initiative for Transparency in the Social Sciences, Berkeley, CA 
 <br> 2019:		CITI Training for Human Subject Research, Social Behavioral and Education Research
 <br> 2017:		Research Administration Training Program, University of California San Diego, La Jolla, CA
@@ -207,7 +221,11 @@ Teaching
   
 **Honors and Awards**
 ======
-<p> 2021-2022:	Maternal and Child Health (MCH) Training Program Epidemiology Predoctoral Fellowship, UCLA MCH Center of Excellence in the Geffen School of Medicine, Los Angelels, CA
+<p>
+<br> 2023: Kirschstein National Research Service Award Individual Predoctoral Fellowship (F31), National Institute of Drug Abuse, National Institute of Health, Bethesda, MD
+<br> 2023: Summer Fellowship, UCLA Center for the Study of Women & Barbra Streisand Center, Los Angeles, CA
+<br> 2022: Rose Eng Chin & Helen Wong Eng Fellowship, UCLA Asian American Studies Center, Los Angeles, CA
+<br> 2021-2022:	Maternal and Child Health (MCH) Training Program Epidemiology Predoctoral Fellowship, UCLA MCH Center of Excellence in the Geffen School of Medicine, Los Angelels, CA
 <br> 2021-2022:	Graduate Council Diversity Fellowship, Academic Senate, UCLA, Los Angeles, CA
 <br> 2021:	Graduate Summer Research Mentorship Program, Graduate Division, UCLA, Los Angeles, CA
 <br> 2021:	Peter J. Sawires Memorial Conference Scholarship, National Conference on Health and Domestic Violence, Futures Without Violence, San Francisco, CA
@@ -223,12 +241,12 @@ Teaching
 ======
 <p> 
 <br> 2021-present:  Graudate Student Intern, Division of HIV and STD Programs, Los Angeles County Department of Public Health, Los Angeles, CA 
-<br> 2021-present:  Community Program Monitoring & Evaluation Intern, Center for the Pacific Asian Family, Los Angeles, CA
-<br> 2020-present:		Student Interest Group - Executive Committee, UCLA Maternal and Child Health Program, Los Angeles, CA
-<br> 2019-2021:		  Survey Committee, UCLA Fielding School of Public Health, Los Angeles, CA
-<br> 2019-present:		Public Health Student Association, UCLA Fielding School of Public Health, Los Angeles, CA
-<br> 2019-present:		Parent Group Member, UCLA Early Childhood and Education, University Village, Los Angeles, CA
-<br> 2019-present:		Student Member, UCLA Students with Dependent Program, Los Angeles, CA
+<br> 2021-2023:  Community Program Monitoring & Evaluation Intern, Center for the Pacific Asian Family, Los Angeles, CA
+<br> 2020-2023:	Student Interest Group - Executive Committee, UCLA Maternal and Child Health Program, Los Angeles, CA
+<br> 2019-2023:	Public Health Student Association, UCLA Fielding School of Public Health, Los Angeles, CA
+<br> 2019-2023:	Parent Group Member, UCLA Early Childhood and Education, University Village, Los Angeles, CA
+<br> 2019-2023:	Student Member, UCLA Students with Dependent Program, Los Angeles, CA
+<br> 2019-2021:	Student Experience Survey Committee, UCLA Fielding School of Public Health, Los Angeles, CA
 </p>
 
 **Skills**
@@ -242,4 +260,4 @@ Teaching
 <br>Project Website (under development): https://euneepark.github.io/datamotherhood
 </p>
 
-<P align=right> Updated on June 11, 2021 </P> 
+<P align=right> Updated on November 7, 2023 </P> 
