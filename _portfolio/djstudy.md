@@ -29,16 +29,19 @@ Click for the project [website](https://www.doublejeopardystudy.org/)
 
 This study is part of [UC Speaks Up](http://www.ucspeaksup.org)
 
+<!-- Markdown before the carousel -->
+
+<!-- HTML carousel code -->
 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/Double Jeopardy Exhibtion  Panel-101.jpg" class="d-block w-100" alt="...">
+      <img src="images/Double Jeopardy Exhibition Panel-101.jpg" class="d-block w-100" alt="First panel description">
     </div>
     <div class="carousel-item">
-      <img src="images/Double Jeopardy Exhibtion  Panel-109.jpg" alt="...">
+      <img src="images/Double Jeopardy Exhibition Panel-109.jpg" class="d-block w-100" alt="Second panel description">
     </div>
     <div class="carousel-item">
-      <img src="images/Double Jeopardy Exhibtion  Panel-201.jpg" class="d-block w-100" alt="...">
+      <img src="images/Double Jeopardy Exhibition Panel-201.jpg" class="d-block w-100" alt="Third panel description">
     </div>
     <!-- ... add more items here -->
   </div>
@@ -51,3 +54,6 @@ This study is part of [UC Speaks Up](http://www.ucspeaksup.org)
     <span class="visually-hidden">Next</span>
   </button>
 </div>
+<!-- End of carousel -->
+
+<!-- More Markdown after the carousel -->
